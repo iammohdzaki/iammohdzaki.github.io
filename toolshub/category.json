@@ -11,6 +11,11 @@
       "icon": ""
     },
     {
+      "categoryId": 58,
+      "categoryName": "Video Tools",
+      "icon": ""
+    },
+    {
       "categoryId": 1,
       "categoryName": "Inspiration",
       "icon": "\ud83d\udca1"
