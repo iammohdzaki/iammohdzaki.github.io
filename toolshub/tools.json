@@ -5727,6 +5727,366 @@
       "toolUrl": "",
       "toolDes": "All the Design resources you need to create your next Digital Product",
       "openUrl": "https://airtable.com/shrlgNNCbUxvfQt5w?ref=toolshub"
-    }
+    },
+    {
+    "toolId": 717,
+    "categoryId": 56,
+    "toolName": "Merge PDF",
+    "toolUrl": "",
+    "toolDes": "Merge 2 or more PDF files into a single PDF file",
+    "openUrl": "https://tinywow.com/pdf/merge"
+  },
+  {
+    "toolId": 718,
+    "categoryId": 56,
+    "toolName": "PDF to JPG",
+    "toolUrl": "",
+    "toolDes": "Convert PDF to JPG and download each page as an image",
+    "openUrl": "https://tinywow.com/pdf/to-jpg"
+  },
+  {
+    "toolId": 719,
+    "categoryId": 56,
+    "toolName": "Edit PDF",
+    "toolUrl": "",
+    "toolDes": "Free PDF Editor",
+    "openUrl": "https://tinywow.com/pdf/edit"
+  },
+  {
+    "toolId": 720,
+    "categoryId": 56,
+    "toolName": "JPG to PDF",
+    "toolUrl": "",
+    "toolDes": "Upload images and receive as a PDF",
+    "openUrl": "https://tinywow.com/pdf/from-jpg"
+  },
+  {
+    "toolId": 721,
+    "categoryId": 56,
+    "toolName": "Compress PDF",
+    "toolUrl": "",
+    "toolDes": "Lessen the file size of a PDF file",
+    "openUrl": "https://tinywow.com/pdf/compress"
+  },
+  {
+    "toolId": 722,
+    "categoryId": 56,
+    "toolName": "Split PDF",
+    "toolUrl": "",
+    "toolDes": "Split into one or multiple PDF files",
+    "openUrl": "https://tinywow.com/pdf/split"
+  },
+  {
+    "toolId": 723,
+    "categoryId": 56,
+    "toolName": "Word to PDF",
+    "toolUrl": "",
+    "toolDes": "Convert a Word Document to PDF",
+    "openUrl": "https://tinywow.com/pdf/from-word"
+  },
+  {
+    "toolId": 724,
+    "categoryId": 56,
+    "toolName": "PDF to Word",
+    "toolUrl": "",
+    "toolDes": "Convert a PDF to Word Document",
+    "openUrl": "https://tinywow.com/pdf/to-word"
+  },
+  {
+    "toolId": 725,
+    "categoryId": 56,
+    "toolName": "Unlock PDF",
+    "toolUrl": "",
+    "toolDes": "Remove the password from a PDF file(requires the password)",
+    "openUrl": "https://tinywow.com/pdf/unlock"
+  },
+  {
+    "toolId": 726,
+    "categoryId": 56,
+    "toolName": "PDF to Excel",
+    "toolUrl": "",
+    "toolDes": "Convert from PDF to XLSX",
+    "openUrl": "https://tinywow.com/pdf/to-xlsx"
+  },
+  {
+    "toolId": 727,
+    "categoryId": 56,
+    "toolName": "PDF to Powerpoint",
+    "toolUrl": "",
+    "toolDes": "Upload a PDF and Download as a PowerPoint Presentation",
+    "openUrl": "https://tinywow.com/pdf/to-ppt"
+  },
+  {
+    "toolId": 728,
+    "categoryId": 56,
+    "toolName": "PNG to PDF",
+    "toolUrl": "",
+    "toolDes": "Upload images and receive as a PDF",
+    "openUrl": "https://tinywow.com/pdf/from-png"
+  },
+  {
+    "toolId": 729,
+    "categoryId": 56,
+    "toolName": "Powerpoint to PDF",
+    "toolUrl": "",
+    "toolDes": "Upload a Powerpoint presentation an Download as a PDF",
+    "openUrl": "https://tinywow.com/pdf/from-ppt"
+  },
+  {
+    "toolId": 730,
+    "categoryId": 56,
+    "toolName": "EPUB to PDF",
+    "toolUrl": "",
+    "toolDes": "Convert EPUB file to PDF file",
+    "openUrl": "https://tinywow.com/pdf/from-epub"
+  },
+  {
+    "toolId": 731,
+    "categoryId": 56,
+    "toolName": "PDF Page Deleter",
+    "toolUrl": "",
+    "toolDes": "Delete 1 or more pages from a PDF",
+    "openUrl": "https://tinywow.com/pdf/delete"
+  },
+  {
+    "toolId": 732,
+    "categoryId": 56,
+    "toolName": "Extract images PDF",
+    "toolUrl": "",
+    "toolDes": "Download the Images from a PDF",
+    "openUrl": "https://tinywow.com/pdf/extract-img"
+  },
+  {
+    "toolId": 733,
+    "categoryId": 56,
+    "toolName": "URL to PDF",
+    "toolUrl": "",
+    "toolDes": "Enter a URL and receive the PC or mobile web page as a PDF",
+    "openUrl": "https://tinywow.com/pdf/from-url"
+  },
+  {
+    "toolId": 734,
+    "categoryId": 56,
+    "toolName": "Rotate PDF",
+    "toolUrl": "",
+    "toolDes": "Rotate one or more pages in a PDF file",
+    "openUrl": "https://tinywow.com/pdf/rotate"
+  },
+  {
+    "toolId": 735,
+    "categoryId": 56,
+    "toolName": "PDF to PNG",
+    "toolUrl": "",
+    "toolDes": "Convert PDF to PNG and download each page as an image",
+    "openUrl": "https://tinywow.com/pdf/to-png"
+  },
+  {
+    "toolId": 736,
+    "categoryId": 56,
+    "toolName": "Create PDF",
+    "toolUrl": "",
+    "toolDes": "Free PDF Creator",
+    "openUrl": "https://tinywow.com/pdf/create"
+  },
+  {
+    "toolId": 737,
+    "categoryId": 56,
+    "toolName": "eSign PDF",
+    "toolUrl": "",
+    "toolDes": "E-sign a PDF with a font or with your signature",
+    "openUrl": "https://tinywow.com/pdf/sign"
+  },
+  {
+    "toolId": 738,
+    "categoryId": 56,
+    "toolName": "Crop PDF",
+    "toolUrl": "",
+    "toolDes": "Free PDF cropper",
+    "openUrl": "https://tinywow.com/pdf/crop"
+  },
+  {
+    "toolId": 739,
+    "categoryId": 56,
+    "toolName": "Protect PDF",
+    "toolUrl": "",
+    "toolDes": "Add a password to a PDF file",
+    "openUrl": "https://tinywow.com/pdf/protect"
+  },
+  {
+    "toolId": 740,
+    "categoryId": 56,
+    "toolName": "Rearrange PDF",
+    "toolUrl": "",
+    "toolDes": "Rearrange pages of PDF file",
+    "openUrl": "https://tinywow.com/pdf/rearrange"
+  },
+  {
+    "toolId": 741,
+    "categoryId": 56,
+    "toolName": "PDF to EPUB",
+    "toolUrl": "",
+    "toolDes": "Convert PDF file to EPUB file",
+    "openUrl": "https://tinywow.com/pdf/to-epub"
+  },
+  {
+    "toolId": 742,
+    "categoryId": 56,
+    "toolName": "PDF to CSV",
+    "toolUrl": "",
+    "toolDes": "Extract tables from PDF to CSV",
+    "openUrl": "https://tinywow.com/pdf/to-csv"
+  },
+  {
+    "toolId": 743,
+    "categoryId": 56,
+    "toolName": "Add Numbers to PDF",
+    "toolUrl": "",
+    "toolDes": "Add page numbers to a PDF file",
+    "openUrl": "https://tinywow.com/pdf/add-pages"
+  },
+  {
+    "toolId": 744,
+    "categoryId": 56,
+    "toolName": "Annotate PDF",
+    "toolUrl": "",
+    "toolDes": "Free PDF Editor",
+    "openUrl": "https://tinywow.com/pdf/annotate"
+  },
+  {
+    "toolId": 745,
+    "categoryId": 56,
+    "toolName": "PDF to MOBI",
+    "toolUrl": "",
+    "toolDes": "Convert PDF file to MOBI file",
+    "openUrl": "https://tinywow.com/pdf/to-mobi"
+  },
+  {
+    "toolId": 746,
+    "categoryId": 56,
+    "toolName": "IMAGES to PDF",
+    "toolUrl": "",
+    "toolDes": "Add images to PDF online",
+    "openUrl": "https://tinywow.com/pdf/add-images"
+  },
+  {
+    "toolId": 747,
+    "categoryId": 56,
+    "toolName": "HEIC to PDF",
+    "toolUrl": "",
+    "toolDes": "Upload images and receive as a PDF",
+    "openUrl": "https://tinywow.com/pdf/from-heic"
+  },
+  {
+    "toolId": 748,
+    "categoryId": 56,
+    "toolName": "Add Watermark",
+    "toolUrl": "",
+    "toolDes": "Stamp an image over your PDF",
+    "openUrl": "https://tinywow.com/pdf/watermark"
+  },
+  {
+    "toolId": 749,
+    "categoryId": 56,
+    "toolName": "PDF to Text",
+    "toolUrl": "",
+    "toolDes": "Convert a PDF to Text",
+    "openUrl": "https://tinywow.com/pdf/to-text"
+  },
+  {
+    "toolId": 750,
+    "categoryId": 56,
+    "toolName": "PDF to TIFF",
+    "toolUrl": "",
+    "toolDes": "Convert PDF to TIFF and download each page as an image",
+    "openUrl": "https://tinywow.com/pdf/to-tiff"
+  },
+  {
+    "toolId": 751,
+    "categoryId": 56,
+    "toolName": "TIFF to PDF",
+    "toolUrl": "",
+    "toolDes": "Upload images and receive as a PDF",
+    "openUrl": "https://tinywow.com/pdf/from-tiff"
+  },
+  {
+    "toolId": 752,
+    "categoryId": 56,
+    "toolName": "MOBI to PDF",
+    "toolUrl": "",
+    "toolDes": "Convert MOBI file to PDF file",
+    "openUrl": "https://tinywow.com/pdf/from-mobi"
+  },
+  {
+    "toolId": 753,
+    "categoryId": 56,
+    "toolName": "Extract text from PDF",
+    "toolUrl": "",
+    "toolDes": "Extract text from PDF document",
+    "openUrl": "https://tinywow.com/pdf/extract-text"
+  },
+  {
+    "toolId": 754,
+    "categoryId": 56,
+    "toolName": "PDF to AZW3",
+    "toolUrl": "",
+    "toolDes": "Convert PDF file to AZW3 file",
+    "openUrl": "https://tinywow.com/pdf/to-azw3"
+  },
+  {
+    "toolId": 755,
+    "categoryId": 56,
+    "toolName": "GIF to PDF",
+    "toolUrl": "",
+    "toolDes": "Upload images and receive as a PDF",
+    "openUrl": "https://tinywow.com/pdf/from-gif"
+  },
+  {
+    "toolId": 756,
+    "categoryId": 56,
+    "toolName": "AZW3 to PDF",
+    "toolUrl": "",
+    "toolDes": "Convert AZW3 file to PDF file",
+    "openUrl": "https://tinywow.com/pdf/from-azw3"
+  },
+  {
+    "toolId": 757,
+    "categoryId": 56,
+    "toolName": "WEBP to PDF",
+    "toolUrl": "",
+    "toolDes": "Upload images and receive as a PDF",
+    "openUrl": "https://tinywow.com/pdf/from-webp"
+  },
+  {
+    "toolId": 758,
+    "categoryId": 56,
+    "toolName": "Add Text",
+    "toolUrl": "",
+    "toolDes": "Add Text to PDF",
+    "openUrl": "https://tinywow.com/pdf/add-text"
+  },
+  {
+    "toolId": 759,
+    "categoryId": 56,
+    "toolName": "EPS to PDF",
+    "toolUrl": "",
+    "toolDes": "Upload images and receive as a PDF",
+    "openUrl": "https://tinywow.com/pdf/from-eps"
+  },
+  {
+    "toolId": 760,
+    "categoryId": 56,
+    "toolName": "Remove Watermark",
+    "toolUrl": "",
+    "toolDes": "Remove Watermark from PDF",
+    "openUrl": "https://tinywow.com/pdf/remove-watermark"
+  },
+  {
+    "toolId": 761,
+    "categoryId": 56,
+    "toolName": "MS Outlook to PDF",
+    "toolUrl": "",
+    "toolDes": "Upload a MS Outlook file an Download as a PDF",
+    "openUrl": "https://tinywow.com/pdf/from-msg"
+  }
   ]
 }

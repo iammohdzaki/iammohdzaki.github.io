@@ -1,6 +1,11 @@
 {
   "categories": [
     {
+      "categoryId": 56,
+      "categoryName": "PDF Tools",
+      "icon": ""
+    },
+    {
       "categoryId": 1,
       "categoryName": "Inspiration",
       "icon": "\ud83d\udca1"
