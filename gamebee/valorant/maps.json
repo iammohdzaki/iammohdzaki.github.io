@@ -1,0 +1,60 @@
+{
+    "data":{
+        "maps":[
+            {
+                "mapId":1,
+                "mapName":"Ascent",
+                "mapUrl": "",
+                "isInCompQueue":1
+            },
+            {
+                "mapId":2,
+                "mapName":"Bind",
+                "mapUrl": "",
+                "isInCompQueue":0
+            },
+            {
+                "mapId":3,
+                "mapName":"Breeze",
+                "mapUrl": "",
+                "isInCompQueue":0
+            },
+            {
+                "mapId":4,
+                "mapName":"Fracture",
+                "mapUrl": "",
+                "isInCompQueue":1
+            },
+            {
+                "mapId":5,
+                "mapName":"Haven",
+                "mapUrl": "",
+                "isInCompQueue":1
+            },
+            {
+                "mapId":6,
+                "mapName":"Icebox",
+                "mapUrl": "",
+                "isInCompQueue":1
+            },
+            {
+                "mapId":7,
+                "mapName":"Lotus",
+                "mapUrl": "",
+                "isInCompQueue":1
+            },
+            {
+                "mapId":8,
+                "mapName":"Pearl",
+                "mapUrl": "",
+                "isInCompQueue":1
+            },
+            {
+                "mapId":9,
+                "mapName":"Split",
+                "mapUrl": "",
+                "isInCompQueue":1
+            },
+        ]
+    }
+}
