@@ -9,6 +9,10 @@
     ],
     "categories": [
         {
+            "name": "All",
+            "categoryId": -1
+        },
+        {
             "name": "Tooling",
             "categoryId": 1
         },
