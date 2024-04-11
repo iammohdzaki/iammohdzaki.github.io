@@ -1,1796 +1,1792 @@
 {
-    'tags': [
-        'Android',
-        'KMP',
-        'IOS',
-        'JVM',
-        'Web',
-        'IOS'
+    "tags": [
+        "Android",
+        "KMP",
+        "IOS",
+        "JVM",
+        "Web",
+        "IOS"
     ],
-    'categories': [
+    "categories": [
         {
-            'name': "All",
-            'categoryId': -1
+            "name": "Tooling",
+            "categoryId": 1
         },
         {
-            'name': 'Tooling',
-            'categoryId': 1
+            "name": "Log",
+            "categoryId": 2
         },
         {
-            'name': 'Log',
-            'categoryId': 2
+            "name": "Network",
+            "categoryId": 3
         },
         {
-            'name': 'Network',
-            'categoryId': 3
+            "name": "Device",
+            "categoryId": 4
         },
         {
-            'name': 'Device',
-            'categoryId': 4
+            "name": "Dependency Injection",
+            "categoryId": 5
         },
         {
-            'name': 'Dependency Injection',
-            'categoryId': 5
+            "name": "Architecture",
+            "categoryId": 6
         },
         {
-            'name': 'Architecture',
-            'categoryId': 6
+            "name": "Analytics",
+            "categoryId": 7
         },
         {
-            'name': 'Analytics',
-            'categoryId': 7
+            "name": "Test",
+            "categoryId": 8
         },
         {
-            'name': 'Test',
-            'categoryId': 8
+            "name": "Crypto",
+            "categoryId": 9
         },
         {
-            'name': 'Crypto',
-            'categoryId': 9
+            "name": "File",
+            "categoryId": 10
         },
         {
-            'name': 'File',
-            'categoryId': 10
+            "name": "Language extensions",
+            "categoryId": 11
         },
         {
-            'name': 'Language extensions',
-            'categoryId': 11
+            "name": "Serializer",
+            "categoryId": 12
         },
         {
-            'name': 'Serializer',
-            'categoryId': 12
+            "name": "Compose UI",
+            "categoryId": 13
         },
         {
-            'name': 'Compose UI',
-            'categoryId': 13
+            "name": "Graphics",
+            "categoryId": 14
         },
         {
-            'name': 'Graphics',
-            'categoryId': 14
+            "name": "Service SDK",
+            "categoryId": 15
         },
         {
-            'name': 'Service SDK',
-            'categoryId': 15
+            "name": "Arithmatic",
+            "categoryId": 16
         },
         {
-            'name': 'Arithmatic',
-            'categoryId': 16
+            "name": "Resources",
+            "categoryId": 17
         },
         {
-            'name': 'Resources',
-            'categoryId': 17
-        },
-        {
-            'name': 'Utils',
-            'categoryId': 18
+            "name": "Utils",
+            "categoryId": 18
         }
     ],
-    'repos': [
+    "repos": [
         {
-            'name': 'Kotlin Multiplatform Mobile plugin',
-            'url': 'https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile',
-            'description': 'The Kotlin Multiplatform Mobile (KMP) plugin helps you develop applications that work on both Android and iOS.',
-            'stars': None,
-            'tags': [
-                'Android',
-                'KMP',
-                'IOS'
+            "name": "Kotlin Multiplatform Mobile plugin",
+            "url": "https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile",
+            "description": "The Kotlin Multiplatform Mobile (KMP) plugin helps you develop applications that work on both Android and iOS.",
+            "stars": null,
+            "tags": [
+                "Android",
+                "KMP",
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'CocoaPods integration',
-            'url': 'https://kotlinlang.org/docs/native-cocoapods.html',
-            'description': 'Kotlin/Native provides integration with the CocoaPods dependency manager. You can add dependencies on Pod libraries as well as use a multiplatform project with native targets as a CocoaPods dependency (Kotlin Pod).',
-            'stars': None,
-            'tags': [
-                'IOS'
+            "name": "CocoaPods integration",
+            "url": "https://kotlinlang.org/docs/native-cocoapods.html",
+            "description": "Kotlin/Native provides integration with the CocoaPods dependency manager. You can add dependencies on Pod libraries as well as use a multiplatform project with native targets as a CocoaPods dependency (Kotlin Pod).",
+            "stars": null,
+            "tags": [
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'Amper',
-            'url': 'https://github.com/JetBrains/amper',
-            'description': 'Improving developer experience while configuring project setup. Kotlin multiplatform support is out-of-the-box. Project now has experimental status.',
-            'stars': 'https://img.shields.io/github/stars/JetBrains/amper?style=flat',
-            'tags': [
-                'JVM'
+            "name": "Amper",
+            "url": "https://github.com/JetBrains/amper",
+            "description": "Improving developer experience while configuring project setup. Kotlin multiplatform support is out-of-the-box. Project now has experimental status.",
+            "stars": "https://img.shields.io/github/stars/JetBrains/amper?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'Swift Package integration',
-            'url': 'https://github.com/PaGr0m/kotlin-spm-plugin',
-            'description': 'This gradle plugin provides two-way interoperability between Kotlin dependencies and Kotlin-based Swift Package Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/PaGr0m/kotlin-spm-plugin?style=flat',
-            'tags': [
-                'IOS'
+            "name": "Swift Package integration",
+            "url": "https://github.com/PaGr0m/kotlin-spm-plugin",
+            "description": "This gradle plugin provides two-way interoperability between Kotlin dependencies and Kotlin-based Swift Package Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/PaGr0m/kotlin-spm-plugin?style=flat",
+            "tags": [
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'Carthage integration',
-            'url': 'https://github.com/wireapp/carthage-gradle-plugin',
-            'description': 'Adds support for integrating Carthage dependencies into a KMP project.',
-            'stars': 'https://img.shields.io/github/stars/wireapp/carthage-gradle-plugin?style=flat',
-            'tags': [
-                'IOS'
+            "name": "Carthage integration",
+            "url": "https://github.com/wireapp/carthage-gradle-plugin",
+            "description": "Adds support for integrating Carthage dependencies into a KMP project.",
+            "stars": "https://img.shields.io/github/stars/wireapp/carthage-gradle-plugin?style=flat",
+            "tags": [
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'Libres gradle plugin',
-            'url': 'https://github.com/Skeptick/libres',
-            'description': 'String/Image resources generation in Kotlin Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/Skeptick/libres?style=flat',
-            'tags': [
-                'JVM'
+            "name": "Libres gradle plugin",
+            "url": "https://github.com/Skeptick/libres",
+            "description": "String/Image resources generation in Kotlin Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/Skeptick/libres?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'MOKO KSwift gradle plugin',
-            'url': 'https://github.com/icerockdev/moko-kswift',
-            'description': "KSwift it's gradle plugin for generation Swift-friendly API for Kotlin/Native framework.",
-            'stars': 'https://img.shields.io/github/stars/icerockdev/moko-kswift?style=flat',
-            'tags': [
-                'IOS'
+            "name": "MOKO KSwift gradle plugin",
+            "url": "https://github.com/icerockdev/moko-kswift",
+            "description": "KSwift it's gradle plugin for generation Swift-friendly API for Kotlin/Native framework.",
+            "stars": "https://img.shields.io/github/stars/icerockdev/moko-kswift?style=flat",
+            "tags": [
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'SKIE gradle plugin',
-            'url': 'https://github.com/touchlab/SKIE',
-            'description': 'A Swift-friendly API Generator for Kotlin Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/touchlab/SKIE?style=flat',
-            'tags': [
-                'IOS'
+            "name": "SKIE gradle plugin",
+            "url": "https://github.com/touchlab/SKIE",
+            "description": "A Swift-friendly API Generator for Kotlin Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/touchlab/SKIE?style=flat",
+            "tags": [
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'CompleteKotlin gradle plugin',
-            'url': 'https://github.com/LouisCAD/CompleteKotlin',
-            'description': 'Gradle Plugin to enable auto-completion and symbol resolution for all Kotlin/Native platforms.',
-            'stars': 'https://img.shields.io/github/stars/LouisCAD/CompleteKotlin?style=flat',
-            'tags': [
-                'JVM'
+            "name": "CompleteKotlin gradle plugin",
+            "url": "https://github.com/LouisCAD/CompleteKotlin",
+            "description": "Gradle Plugin to enable auto-completion and symbol resolution for all Kotlin/Native platforms.",
+            "stars": "https://img.shields.io/github/stars/LouisCAD/CompleteKotlin?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'gradle-buildconfig-plugin gradle plugin',
-            'url': 'https://github.com/gmazzo/gradle-buildconfig-plugin',
-            'description': 'A plugin for generating BuildConstants for any kind of Gradle projects: Java, Kotlin, Groovy, etc. Designed for KTS scripts.',
-            'stars': 'https://img.shields.io/github/stars/gmazzo/gradle-buildconfig-plugin?style=flat',
-            'tags': [
-                'JVM'
+            "name": "gradle-buildconfig-plugin gradle plugin",
+            "url": "https://github.com/gmazzo/gradle-buildconfig-plugin",
+            "description": "A plugin for generating BuildConstants for any kind of Gradle projects: Java, Kotlin, Groovy, etc. Designed for KTS scripts.",
+            "stars": "https://img.shields.io/github/stars/gmazzo/gradle-buildconfig-plugin?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'BuildKonfig gradle plugin',
-            'url': 'https://github.com/yshrsmz/BuildKonfig',
-            'description': 'BuildConfig for Kotlin Multiplatform Project',
-            'stars': 'https://img.shields.io/github/stars/yshrsmz/BuildKonfig?style=flat',
-            'tags': [
-                'JVM'
+            "name": "BuildKonfig gradle plugin",
+            "url": "https://github.com/yshrsmz/BuildKonfig",
+            "description": "BuildConfig for Kotlin Multiplatform Project",
+            "stars": "https://img.shields.io/github/stars/yshrsmz/BuildKonfig?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'Kotlin Native Xcode Support',
-            'url': 'https://github.com/touchlab/xcode-kotlin',
-            'description': "Plugin to facilitate debugging iOS applications using Kotlin Native in Xcode. Defines Kotlin files as source code, with basic highlighting. Allows you to set breakpoints and includes llvm support to view data in the debug window. Xcode does not officially support custom language definitions, but they also don't explicitly block them.",
-            'stars': 'https://img.shields.io/github/stars/touchlab/xcode-kotlin?style=flat',
-            'tags': [
-                'IOS'
+            "name": "Kotlin Native Xcode Support",
+            "url": "https://github.com/touchlab/xcode-kotlin",
+            "description": "Plugin to facilitate debugging iOS applications using Kotlin Native in Xcode. Defines Kotlin files as source code, with basic highlighting. Allows you to set breakpoints and includes llvm support to view data in the debug window. Xcode does not officially support custom language definitions, but they also don't explicitly block them.",
+            "stars": "https://img.shields.io/github/stars/touchlab/xcode-kotlin?style=flat",
+            "tags": [
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'Dokka documentation generation tool',
-            'url': 'https://github.com/Kotlin/dokka',
-            'description': 'Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java. Just like Kotlin itself, Dokka fully supports mixed-language Java/Kotlin projects. It understands standard Javadoc comments in Java files and KDoc comments in Kotlin files, and can generate documentation in multiple formats including standard Javadoc, HTML and Markdown.',
-            'stars': 'https://img.shields.io/github/stars/Kotlin/dokka?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS'
+            "name": "Dokka documentation generation tool",
+            "url": "https://github.com/Kotlin/dokka",
+            "description": "Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java. Just like Kotlin itself, Dokka fully supports mixed-language Java/Kotlin projects. It understands standard Javadoc comments in Java files and KDoc comments in Kotlin files, and can generate documentation in multiple formats including standard Javadoc, HTML and Markdown.",
+            "stars": "https://img.shields.io/github/stars/Kotlin/dokka?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'KDoctor command-line tool',
-            'url': 'https://github.com/Kotlin/kdoctor',
-            'description': 'KDoctor is a command-line tool that helps to set up the environment for Kotlin Multiplatform Mobile app development. It ensures that all required components are properly installed and ready for use. If something is missed or not configured Kdoctor highlights the problem and suggests how to fix the problem.',
-            'stars': 'https://img.shields.io/github/stars/Kotlin/kdoctor?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS'
+            "name": "KDoctor command-line tool",
+            "url": "https://github.com/Kotlin/kdoctor",
+            "description": "KDoctor is a command-line tool that helps to set up the environment for Kotlin Multiplatform Mobile app development. It ensures that all required components are properly installed and ready for use. If something is missed or not configured Kdoctor highlights the problem and suggests how to fix the problem.",
+            "stars": "https://img.shields.io/github/stars/Kotlin/kdoctor?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'Swift Klib gradle plugin',
-            'url': 'https://github.com/ttypic/swift-klib-plugin',
-            'description': 'Gradle Plugin to build Swift code as part of your Kotlin Multiplatform project. With this plugin, you can access Swift-only iOS libraries, such as CryptoKit and experiment with Swift to Kotlin interoperability.',
-            'stars': 'https://img.shields.io/github/stars/ttypic/swift-klib-plugin?style=flat',
-            'tags': [
-                'IOS'
+            "name": "Swift Klib gradle plugin",
+            "url": "https://github.com/ttypic/swift-klib-plugin",
+            "description": "Gradle Plugin to build Swift code as part of your Kotlin Multiplatform project. With this plugin, you can access Swift-only iOS libraries, such as CryptoKit and experiment with Swift to Kotlin interoperability.",
+            "stars": "https://img.shields.io/github/stars/ttypic/swift-klib-plugin?style=flat",
+            "tags": [
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'parcelize-darwin gradle plugin',
-            'url': 'https://github.com/arkivanov/parcelize-darwin',
-            'description': "Kotlin/Native compiler plugin that generates Parcelable implementations for Darwin (Apple) targets. Allows writing Parcelable classes for all Darwin targets, similary to the Android's kotlin-parcelize plugin. Can be also used together with the kotlin-parcelize plugin to write Parcelable classes in the commonMain source set.",
-            'stars': 'https://img.shields.io/github/stars/arkivanov/parcelize-darwin?style=flat',
-            'tags': [
-                'IOS'
+            "name": "parcelize-darwin gradle plugin",
+            "url": "https://github.com/arkivanov/parcelize-darwin",
+            "description": "Kotlin/Native compiler plugin that generates Parcelable implementations for Darwin (Apple) targets. Allows writing Parcelable classes for all Darwin targets, similary to the Android's kotlin-parcelize plugin. Can be also used together with the kotlin-parcelize plugin to write Parcelable classes in the commonMain source set.",
+            "stars": "https://img.shields.io/github/stars/arkivanov/parcelize-darwin?style=flat",
+            "tags": [
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'AboutLibraries gradle plugin',
-            'url': 'https://github.com/mikepenz/AboutLibraries',
-            'description': 'Collects all dependencies and licenses of gradle projects (Kotlin Multiplatform) and provides an easy to integrate Attribution / Open Source library UI to integrate in Compose / Android targets.',
-            'stars': 'https://img.shields.io/github/stars/mikepenz/AboutLibraries?style=flat',
-            'tags': [
-                'Android',
-                'KMP',
-                'IOS'
+            "name": "AboutLibraries gradle plugin",
+            "url": "https://github.com/mikepenz/AboutLibraries",
+            "description": "Collects all dependencies and licenses of gradle projects (Kotlin Multiplatform) and provides an easy to integrate Attribution / Open Source library UI to integrate in Compose / Android targets.",
+            "stars": "https://img.shields.io/github/stars/mikepenz/AboutLibraries?style=flat",
+            "tags": [
+                "Android",
+                "KMP",
+                "IOS"
             ],
-            'categoryId': 1
+            "categoryId": 1
         },
         {
-            'name': 'Napier - logger',
-            'url': 'https://github.com/AAkira/Napier',
-            'description': 'Napier is a logger library for Kotlin Multiplatform. It supports for the Android, Darwin(iOS, macOS, watchOS, tvOS), JVM, JavaScript. Logs written in common module are displayed on logger viewer of each platform.',
-            'stars': 'https://img.shields.io/github/stars/AAkira/Napier?style=flat',
-            'tags': [
-                'Android',
-                'KMP',
-                'IOS',
-                'JVM',
-                'Web'
+            "name": "Napier - logger",
+            "url": "https://github.com/AAkira/Napier",
+            "description": "Napier is a logger library for Kotlin Multiplatform. It supports for the Android, Darwin(iOS, macOS, watchOS, tvOS), JVM, JavaScript. Logs written in common module are displayed on logger viewer of each platform.",
+            "stars": "https://img.shields.io/github/stars/AAkira/Napier?style=flat",
+            "tags": [
+                "Android",
+                "KMP",
+                "IOS",
+                "JVM",
+                "Web"
             ],
-            'categoryId': 2
+            "categoryId": 2
         },
         {
-            'name': 'Kermit - logger',
-            'url': 'https://github.com/touchlab/Kermit',
-            'description': 'Kermit is a Kotlin Multiplatform logging utility with composable log outputs. The library provides prebuilt loggers for outputting to platform logging tools such as Logcat and NSLog.',
-            'stars': 'https://img.shields.io/github/stars/touchlab/Kermit?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS'
+            "name": "Kermit - logger",
+            "url": "https://github.com/touchlab/Kermit",
+            "description": "Kermit is a Kotlin Multiplatform logging utility with composable log outputs. The library provides prebuilt loggers for outputting to platform logging tools such as Logcat and NSLog.",
+            "stars": "https://img.shields.io/github/stars/touchlab/Kermit?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS"
             ],
-            'categoryId': 2
+            "categoryId": 2
         },
         {
-            'name': 'Canard - logger',
-            'url': 'https://github.com/kosi-libs/Canard',
-            'description': 'Canard is a lightweight Kotlin/Multiplatform logging library with a simple API, that works on JVM, Android, JavaScript, iOS, as well as for all Kotlin/Native targets.',
-            'stars': 'https://img.shields.io/github/stars/kosi-libs/Canard?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS',
-                'Web'
+            "name": "Canard - logger",
+            "url": "https://github.com/kosi-libs/Canard",
+            "description": "Canard is a lightweight Kotlin/Multiplatform logging library with a simple API, that works on JVM, Android, JavaScript, iOS, as well as for all Kotlin/Native targets.",
+            "stars": "https://img.shields.io/github/stars/kosi-libs/Canard?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 2
+            "categoryId": 2
         },
         {
-            'name': 'Klogger - logger',
-            'url': 'https://github.com/korlibs/klogger',
-            'description': 'Klogger is a logger library for multiplatform Kotlin. This library provides a simple interface to do logging into suitable outputs like javascript’s console, or stdout/stderr.',
-            'stars': 'https://img.shields.io/github/stars/korlibs/klogger?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS',
-                'Web'
+            "name": "Klogger - logger",
+            "url": "https://github.com/korlibs/klogger",
+            "description": "Klogger is a logger library for multiplatform Kotlin. This library provides a simple interface to do logging into suitable outputs like javascript\u2019s console, or stdout/stderr.",
+            "stars": "https://img.shields.io/github/stars/korlibs/klogger?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 2
+            "categoryId": 2
         },
         {
-            'name': 'Cabret - logger',
-            'url': 'https://github.com/Foso/Cabret-Log',
-            'description': 'This is an Kotlin Library that enables Annotation-triggered method call logging for Kotlin Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/Foso/Cabret-Log?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS'
+            "name": "Cabret - logger",
+            "url": "https://github.com/Foso/Cabret-Log",
+            "description": "This is an Kotlin Library that enables Annotation-triggered method call logging for Kotlin Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/Foso/Cabret-Log?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS"
             ],
-            'categoryId': 2
+            "categoryId": 2
         },
         {
-            'name': 'KmLogging - logger',
-            'url': 'https://github.com/LighthouseGames/KmLogging',
-            'description': 'Kotlin multiplatform logging. High performance, composable and simple to use.',
-            'stars': 'https://img.shields.io/github/stars/LighthouseGames/KmLogging?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS',
-                'Web'
-            ],
-            'categoryId': 2
+            "name": "KmLogging - logger",
+            "url": "https://github.com/LighthouseGames/KmLogging",
+            "description": "Kotlin multiplatform logging. High performance, composable and simple to use.",
+            "stars": "https://img.shields.io/github/stars/LighthouseGames/KmLogging?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS",
+                "Web"
+            ],
+            "categoryId": 2
         },
         {
-            'name': 'Kydra Log - logger',
-            'url': 'https://github.com/PocketByte/kotlin-kydra-log',
-            'description': 'Kotlin Multiplatform Library that allows to write logs in common module.',
-            'stars': 'https://img.shields.io/github/stars/PocketByte/kotlin-kydra-log?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS'
+            "name": "Kydra Log - logger",
+            "url": "https://github.com/PocketByte/kotlin-kydra-log",
+            "description": "Kotlin Multiplatform Library that allows to write logs in common module.",
+            "stars": "https://img.shields.io/github/stars/PocketByte/kotlin-kydra-log?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS"
             ],
-            'categoryId': 2
+            "categoryId": 2
         },
         {
-            'name': 'kmp-xlog - logger',
-            'url': 'https://github.com/HackWebRTC/kmp-xlog',
-            'description': 'KMP wrapper for Tencent mars xlog.',
-            'stars': 'https://img.shields.io/github/stars/HackWebRTC/kmp-xlog?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS'
-            ],
-            'categoryId': 2
+            "name": "kmp-xlog - logger",
+            "url": "https://github.com/HackWebRTC/kmp-xlog",
+            "description": "KMP wrapper for Tencent mars xlog.",
+            "stars": "https://img.shields.io/github/stars/HackWebRTC/kmp-xlog?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS"
+            ],
+            "categoryId": 2
         },
         {
-            'name': 'Ktor - http client',
-            'url': 'https://github.com/ktorio/ktor',
-            'description': 'Ktor includes a multiplatform asynchronous HTTP client, which allows you to make requests and handle responses, extend its functionality with plugins (formerly known as features), such as authentication, JSON serialization, and so on.',
-            'stars': 'https://img.shields.io/github/stars/ktorio/ktor?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS',
-                'Web'
+            "name": "Ktor - http client",
+            "url": "https://github.com/ktorio/ktor",
+            "description": "Ktor includes a multiplatform asynchronous HTTP client, which allows you to make requests and handle responses, extend its functionality with plugins (formerly known as features), such as authentication, JSON serialization, and so on.",
+            "stars": "https://img.shields.io/github/stars/ktorio/ktor?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 3
+            "categoryId": 3
         },
         {
-            'name': 'Ktorfit - Retrofit for Kotlin Multiplatform on KTS',
-            'url': 'https://github.com/Foso/Ktorfit',
-            'description': 'HTTP client / Kotlin Symbol Processor for Kotlin Multiplatform (Android,Js, Jvm , Native, iOS) using KSP and Ktor clients inspired by Retrofit.',
-            'stars': 'https://img.shields.io/github/stars/Foso/Ktorfit?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS',
-                'Web'
+            "name": "Ktorfit - Retrofit for Kotlin Multiplatform on KTS",
+            "url": "https://github.com/Foso/Ktorfit",
+            "description": "HTTP client / Kotlin Symbol Processor for Kotlin Multiplatform (Android,Js, Jvm , Native, iOS) using KSP and Ktor clients inspired by Retrofit.",
+            "stars": "https://img.shields.io/github/stars/Foso/Ktorfit?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 3
+            "categoryId": 3
         },
         {
-            'name': 'Apollo GraphQL - GraphQL client',
-            'url': 'https://github.com/apollographql/apollo-android',
-            'description': 'A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/apollographql/apollo-android?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS',
-                'Web'
+            "name": "Apollo GraphQL - GraphQL client",
+            "url": "https://github.com/apollographql/apollo-android",
+            "description": "A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.",
+            "stars": "https://img.shields.io/github/stars/apollographql/apollo-android?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 3
+            "categoryId": 3
         },
         {
-            'name': 'kgql - GraphQL Document wrapper generator',
-            'url': 'https://github.com/yshrsmz/kgql',
-            'description': 'GraphQL Document wrapper generator for Kotlin Multiplatform Project. Currently, available for JVM/Android/iOS.',
-            'stars': 'https://img.shields.io/github/stars/yshrsmz/kgql?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS'
+            "name": "kgql - GraphQL Document wrapper generator",
+            "url": "https://github.com/yshrsmz/kgql",
+            "description": "GraphQL Document wrapper generator for Kotlin Multiplatform Project. Currently, available for JVM/Android/iOS.",
+            "stars": "https://img.shields.io/github/stars/yshrsmz/kgql?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS"
             ],
-            'categoryId': 3
+            "categoryId": 3
         },
         {
-            'name': 'WebRTC KMP - WebRTC client',
-            'url': 'https://github.com/shepeliev/webrtc-kmp',
-            'description': 'WebRTC Kotlin Multiplatform SDK.',
-            'stars': 'https://img.shields.io/github/stars/shepeliev/webrtc-kmp?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS'
+            "name": "WebRTC KMP - WebRTC client",
+            "url": "https://github.com/shepeliev/webrtc-kmp",
+            "description": "WebRTC Kotlin Multiplatform SDK.",
+            "stars": "https://img.shields.io/github/stars/shepeliev/webrtc-kmp?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS"
             ],
-            'categoryId': 3
+            "categoryId": 3
         },
         {
-            'name': 'Krossbow - WebSocket client',
-            'url': 'https://github.com/joffrey-bion/krossbow',
-            'description': 'A coroutine-based Kotlin multi-platform WebSocket client and STOMP 1.2 client over web sockets.',
-            'stars': 'https://img.shields.io/github/stars/joffrey-bion/krossbow?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS',
-                'Web'
+            "name": "Krossbow - WebSocket client",
+            "url": "https://github.com/joffrey-bion/krossbow",
+            "description": "A coroutine-based Kotlin multi-platform WebSocket client and STOMP 1.2 client over web sockets.",
+            "stars": "https://img.shields.io/github/stars/joffrey-bion/krossbow?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 3
+            "categoryId": 3
         },
         {
-            'name': 'MOKO SocketIo - Socket.IO implementation',
-            'url': 'https://github.com/icerockdev/moko-socket-io',
-            'description': 'This is a Kotlin Multiplatform library that provides real-time, event-based communication for iOS and Android.',
-            'stars': 'https://img.shields.io/github/stars/icerockdev/moko-socket-io?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "MOKO SocketIo - Socket.IO implementation",
+            "url": "https://github.com/icerockdev/moko-socket-io",
+            "description": "This is a Kotlin Multiplatform library that provides real-time, event-based communication for iOS and Android.",
+            "stars": "https://img.shields.io/github/stars/icerockdev/moko-socket-io?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 3
+            "categoryId": 3
         },
         {
-            'name': 'rsocket - RSocket Kotlin multi-platform implementation',
-            'url': 'https://github.com/rsocket/rsocket-kotlin',
-            'description': 'RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets and Aeron.',
-            'stars': 'https://img.shields.io/github/stars/rsocket/rsocket-kotlin?style=flat',
-            'tags': [
-                'JVM',
-                'Android',
-                'IOS',
-                'Web'
+            "name": "rsocket - RSocket Kotlin multi-platform implementation",
+            "url": "https://github.com/rsocket/rsocket-kotlin",
+            "description": "RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets and Aeron.",
+            "stars": "https://img.shields.io/github/stars/rsocket/rsocket-kotlin?style=flat",
+            "tags": [
+                "JVM",
+                "Android",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 3
+            "categoryId": 3
         },
         {
-            'name': 'MOKO Permissions - System permissions manager',
-            'url': 'https://github.com/icerockdev/moko-permissions',
-            'description': 'Kotlin Multiplatform library for providing runtime permissions on iOS & Android',
-            'stars': 'https://img.shields.io/github/stars/icerockdev/moko-permissions?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "MOKO Permissions - System permissions manager",
+            "url": "https://github.com/icerockdev/moko-permissions",
+            "description": "Kotlin Multiplatform library for providing runtime permissions on iOS & Android",
+            "stars": "https://img.shields.io/github/stars/icerockdev/moko-permissions?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'abc-kmm-notifications - Notification Manager',
-            'url': 'https://github.com/line/abc-kmm-notifications',
-            'description': 'Remote Notification Manager for Kotlin Multiplatform Mobile',
-            'stars': 'https://img.shields.io/github/stars/line/abc-kmm-notifications?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "abc-kmm-notifications - Notification Manager",
+            "url": "https://github.com/line/abc-kmm-notifications",
+            "description": "Remote Notification Manager for Kotlin Multiplatform Mobile",
+            "stars": "https://img.shields.io/github/stars/line/abc-kmm-notifications?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'abc-kmm-Location - Location manager',
-            'url': 'https://github.com/line/abc-kmm-location',
-            'description': 'Location Service Manager for Kotlin Multiplatform Mobile iOS and android',
-            'stars': 'https://img.shields.io/github/stars/line/abc-kmm-location?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "abc-kmm-Location - Location manager",
+            "url": "https://github.com/line/abc-kmm-location",
+            "description": "Location Service Manager for Kotlin Multiplatform Mobile iOS and android",
+            "stars": "https://img.shields.io/github/stars/line/abc-kmm-location?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'MOKO Geo - Location manager',
-            'url': 'https://github.com/icerockdev/moko-geo',
-            'description': 'Geolocation access for mobile (android & ios) Kotlin Multiplatform development',
-            'stars': 'https://img.shields.io/github/stars/icerockdev/moko-geo?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "MOKO Geo - Location manager",
+            "url": "https://github.com/icerockdev/moko-geo",
+            "description": "Geolocation access for mobile (android & ios) Kotlin Multiplatform development",
+            "stars": "https://img.shields.io/github/stars/icerockdev/moko-geo?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'MOKO Biometry - System biometry manager',
-            'url': 'https://github.com/icerockdev/moko-biometry',
-            'description': 'This is a Kotlin Multiplatform library that provides authentication by FaceId and TouchId (Fingerprint)',
-            'stars': 'https://img.shields.io/github/stars/icerockdev/moko-biometry?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "MOKO Biometry - System biometry manager",
+            "url": "https://github.com/icerockdev/moko-biometry",
+            "description": "This is a Kotlin Multiplatform library that provides authentication by FaceId and TouchId (Fingerprint)",
+            "stars": "https://img.shields.io/github/stars/icerockdev/moko-biometry?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'MOKO Media - System media manager',
-            'url': 'https://github.com/icerockdev/moko-media',
-            'description': 'This is a Kotlin Multiplatform library that provides media picking in common code (photo/video) and video player controls.',
-            'stars': 'https://img.shields.io/github/stars/icerockdev/moko-media?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "MOKO Media - System media manager",
+            "url": "https://github.com/icerockdev/moko-media",
+            "description": "This is a Kotlin Multiplatform library that provides media picking in common code (photo/video) and video player controls.",
+            "stars": "https://img.shields.io/github/stars/icerockdev/moko-media?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'MOKO Maps - Google/Mapbox maps manager',
-            'url': 'https://github.com/icerockdev/moko-maps',
-            'description': 'This is a Kotlin Multiplatform library that provides controls of maps to common code.',
-            'stars': 'https://img.shields.io/github/stars/icerockdev/moko-maps?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "MOKO Maps - Google/Mapbox maps manager",
+            "url": "https://github.com/icerockdev/moko-maps",
+            "description": "This is a Kotlin Multiplatform library that provides controls of maps to common code.",
+            "stars": "https://img.shields.io/github/stars/icerockdev/moko-maps?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'Kable - Coroutines-powered API for interacting with Bluetooth Low Energy devices.',
-            'url': 'https://github.com/juullabs/kable',
-            'description': 'Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.',
-            'stars': 'https://img.shields.io/github/stars/juullabs/kable?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "Kable - Coroutines-powered API for interacting with Bluetooth Low Energy devices.",
+            "url": "https://github.com/juullabs/kable",
+            "description": "Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.",
+            "stars": "https://img.shields.io/github/stars/juullabs/kable?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'Blue-Falcon - A Bluetooth kotlin multiplatform library for iOS and Android',
-            'url': 'https://github.com/Reedyuk/blue-falcon',
-            'description': 'A Bluetooth "Cross Platform" Kotlin Multiplatform library for iOS, Android, MacOS, Raspberry Pi and Javascript. Bluetooth in general has the same functionality for all platforms, e.g. connect to device, fetch services, fetch characteristics.',
-            'stars': 'https://img.shields.io/github/stars/Reedyuk/blue-falcon?style=flat',
-            'tags': [
-                'Android',
-                'IOS',
-                'MacOS',
-                'Raspberry Pi',
-                'Javascript'
+            "name": "Blue-Falcon - A Bluetooth kotlin multiplatform library for iOS and Android",
+            "url": "https://github.com/Reedyuk/blue-falcon",
+            "description": "A Bluetooth \"Cross Platform\" Kotlin Multiplatform library for iOS, Android, MacOS, Raspberry Pi and Javascript. Bluetooth in general has the same functionality for all platforms, e.g. connect to device, fetch services, fetch characteristics.",
+            "stars": "https://img.shields.io/github/stars/Reedyuk/blue-falcon?style=flat",
+            "tags": [
+                "Android",
+                "IOS",
+                "MacOS",
+                "Raspberry Pi",
+                "Javascript"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'Connectivity status - Multiplatform connectivity status',
-            'url': 'https://github.com/ln-12/multiplatform-connectivity-status',
-            'description': 'This Kotlin multiplatform mobile utility library allows monitoring the internet connection status of the device. You can use it from shared code as well as directly from Android or iOS code.',
-            'stars': 'https://img.shields.io/github/stars/ln-12/multiplatform-connectivity-status?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "Connectivity status - Multiplatform connectivity status",
+            "url": "https://github.com/ln-12/multiplatform-connectivity-status",
+            "description": "This Kotlin multiplatform mobile utility library allows monitoring the internet connection status of the device. You can use it from shared code as well as directly from Android or iOS code.",
+            "stars": "https://img.shields.io/github/stars/ln-12/multiplatform-connectivity-status?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'Kontrol - Debug menu',
-            'url': 'https://github.com/chopyourbrain/kontrol',
-            'description': 'A Kotlin Multiplatform library for creating debug menu.',
-            'stars': 'https://img.shields.io/github/stars/chopyourbrain/kontrol?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "Kontrol - Debug menu",
+            "url": "https://github.com/chopyourbrain/kontrol",
+            "description": "A Kotlin Multiplatform library for creating debug menu.",
+            "stars": "https://img.shields.io/github/stars/chopyourbrain/kontrol?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'KMPNotifier - Firebase Push Notification library for iOS and Android',
-            'url': 'https://github.com/mirzemehdi/KMPNotifier',
-            'description': 'Kotlin Multiplatform Push Notification Library using Firebase for iOS and Android.',
-            'stars': 'https://img.shields.io/github/stars/mirzemehdi/KMPNotifier?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "KMPNotifier - Firebase Push Notification library for iOS and Android",
+            "url": "https://github.com/mirzemehdi/KMPNotifier",
+            "description": "Kotlin Multiplatform Push Notification Library using Firebase for iOS and Android.",
+            "stars": "https://img.shields.io/github/stars/mirzemehdi/KMPNotifier?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 4
+            "categoryId": 4
         },
         {
-            'name': 'Koin - DI framework',
-            'url': 'https://github.com/InsertKoinIO/koin',
-            'description': 'A pragmatic lightweight dependency injection framework for Kotlin developers. Koin is a DSL, a light container and a pragmatic API',
-            'stars': 'https://img.shields.io/github/stars/InsertKoinIO/koin?style=flat',
-            'tags': [
-                'Android',
-                'JVM'
+            "name": "Koin - DI framework",
+            "url": "https://github.com/InsertKoinIO/koin",
+            "description": "A pragmatic lightweight dependency injection framework for Kotlin developers. Koin is a DSL, a light container and a pragmatic API",
+            "stars": "https://img.shields.io/github/stars/InsertKoinIO/koin?style=flat",
+            "tags": [
+                "Android",
+                "JVM"
             ],
-            'categoryId': 5
+            "categoryId": 5
         },
         {
-            'name': 'Kodein - DI framework',
-            'url': 'https://github.com/kosi-libs/Kodein',
-            'description': 'Kodein is a very simple and yet very useful dependency retrieval container.',
-            'stars': 'https://img.shields.io/github/stars/kosi-libs/kodein?style=flat',
-            'tags': [
-                'Android',
-                'JVM'
+            "name": "Kodein - DI framework",
+            "url": "https://github.com/kosi-libs/Kodein",
+            "description": "Kodein is a very simple and yet very useful dependency retrieval container.",
+            "stars": "https://img.shields.io/github/stars/kosi-libs/kodein?style=flat",
+            "tags": [
+                "Android",
+                "JVM"
             ],
-            'categoryId': 5
+            "categoryId": 5
         },
         {
-            'name': 'kotlin-inject - DI framework',
-            'url': 'https://github.com/evant/kotlin-inject',
-            'description': 'A compile-time dependency injection library for kotlin.',
-            'stars': 'https://img.shields.io/github/stars/evant/kotlin-inject?style=flat',
-            'tags': [
-                'JVM'
+            "name": "kotlin-inject - DI framework",
+            "url": "https://github.com/evant/kotlin-inject",
+            "description": "A compile-time dependency injection library for kotlin.",
+            "stars": "https://img.shields.io/github/stars/evant/kotlin-inject?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 5
+            "categoryId": 5
         },
         {
-            'name': 'Koject - KSP DI framework',
-            'url': 'https://github.com/mori-atsushi/koject',
-            'description': 'Koject is a DI Container Library for Kolin Multiplatform using KSP.',
-            'stars': 'https://img.shields.io/github/stars/mori-atsushi/koject?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "Koject - KSP DI framework",
+            "url": "https://github.com/mori-atsushi/koject",
+            "description": "Koject is a DI Container Library for Kolin Multiplatform using KSP.",
+            "stars": "https://img.shields.io/github/stars/mori-atsushi/koject?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 5
+            "categoryId": 5
         },
         {
-            'name': 'DI.kt - DI for kotlin multiplatform',
-            'url': 'https://github.com/sergeshustoff/dikt',
-            'description': "Simple DI with compile-time dependency graph validation for kotlin multiplatform. It uses IR to create method's bodies with dependency injection.",
-            'stars': 'https://img.shields.io/github/stars/sergeshustoff/dikt?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "DI.kt - DI for kotlin multiplatform",
+            "url": "https://github.com/sergeshustoff/dikt",
+            "description": "Simple DI with compile-time dependency graph validation for kotlin multiplatform. It uses IR to create method's bodies with dependency injection.",
+            "stars": "https://img.shields.io/github/stars/sergeshustoff/dikt?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 5
+            "categoryId": 5
         },
         {
-            'name': 'PopKorn - DI framework',
-            'url': 'https://github.com/corbella83/PopKorn',
-            'description': "PopKorn is a simple, powerful and lightweight Kotlin Multiplatform Dependency Injector. It doesn't need any modules or components, just use it without writing a single extra file! It supports AND, IOS, JVM, JS and NATIVE.",
-            'stars': 'https://img.shields.io/github/stars/corbella83/PopKorn?style=flat',
-            'tags': [
-                'Android',
-                'IOS',
-                'JVM',
-                'JS',
-                'NATIVE'
+            "name": "PopKorn - DI framework",
+            "url": "https://github.com/corbella83/PopKorn",
+            "description": "PopKorn is a simple, powerful and lightweight Kotlin Multiplatform Dependency Injector. It doesn't need any modules or components, just use it without writing a single extra file! It supports AND, IOS, JVM, JS and NATIVE.",
+            "stars": "https://img.shields.io/github/stars/corbella83/PopKorn?style=flat",
+            "tags": [
+                "Android",
+                "IOS",
+                "JVM",
+                "JS",
+                "NATIVE"
             ],
-            'categoryId': 5
+            "categoryId": 5
         },
         {
-            'name': 'MVI Kotlin - MVI framework',
-            'url': 'https://github.com/arkivanov/MVIKotlin',
-            'description': 'MVIKotlin is a Kotlin Multiplatform framework that provides a way of (not only) writing shared code using MVI pattern. It also includes powerful debug tools like logging and time travel.',
-            'stars': 'https://img.shields.io/github/stars/arkivanov/MVIKotlin?style=flat',
-            'tags': [
-                'Android',
-                'IOS',
-                'JVM'
+            "name": "MVI Kotlin - MVI framework",
+            "url": "https://github.com/arkivanov/MVIKotlin",
+            "description": "MVIKotlin is a Kotlin Multiplatform framework that provides a way of (not only) writing shared code using MVI pattern. It also includes powerful debug tools like logging and time travel.",
+            "stars": "https://img.shields.io/github/stars/arkivanov/MVIKotlin?style=flat",
+            "tags": [
+                "Android",
+                "IOS",
+                "JVM"
             ],
-            'categoryId': 6
+            "categoryId": 6
         },
         {
-            'name': 'Orbit MVI - MVI framework',
-            'url': 'https://github.com/orbit-mvi/orbit-mvi',
-            'description': 'Orbit is a Redux/MVI-like library for KMP, targetting Android and iOS.',
-            'stars': 'https://img.shields.io/github/stars/orbit-mvi/orbit-mvi?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "Orbit MVI - MVI framework",
+            "url": "https://github.com/orbit-mvi/orbit-mvi",
+            "description": "Orbit is a Redux/MVI-like library for KMP, targetting Android and iOS.",
+            "stars": "https://img.shields.io/github/stars/orbit-mvi/orbit-mvi?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 6
+            "categoryId": 6
         },
         {
-            'name': 'FlowMVI - Plugin-based MVI framework',
-            'url': 'https://github.com/respawn-app/FlowMVI',
-            'description': 'FlowMVI is a KMP MVI library based on coroutines with a rich DSL and a powerful plugin system.',
-            'stars': 'https://img.shields.io/github/stars/respawn-app/FlowMVI?style=flat',
-            'tags': [
-                'JVM'
+            "name": "FlowMVI - Plugin-based MVI framework",
+            "url": "https://github.com/respawn-app/FlowMVI",
+            "description": "FlowMVI is a KMP MVI library based on coroutines with a rich DSL and a powerful plugin system.",
+            "stars": "https://img.shields.io/github/stars/respawn-app/FlowMVI?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 6
+            "categoryId": 6
         },
         {
-            'name': 'KMM-ViewModel - KMM ViewModels',
-            'url': 'https://github.com/rickclephas/KMM-ViewModel',
-            'description': 'A library that allows you to share ViewModels between Android and iOS.',
-            'stars': 'https://img.shields.io/github/stars/rickclephas/KMM-ViewModel?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "KMM-ViewModel - KMM ViewModels",
+            "url": "https://github.com/rickclephas/KMM-ViewModel",
+            "description": "A library that allows you to share ViewModels between Android and iOS.",
+            "stars": "https://img.shields.io/github/stars/rickclephas/KMM-ViewModel?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 6
+            "categoryId": 6
         },
         {
-            'name': 'VisualFSM - FSM-based MVI framework',
-            'url': 'https://github.com/Kontur-Mobile/VisualFSM',
-            'description': "VisualFSM is a Kotlin Multiplatform library for implements an FSM-based (Finite-state machine) MVI pattern and a set of tools for visualization and analysis of FSM's diagram of states.",
-            'stars': 'https://img.shields.io/github/stars/Kontur-Mobile/VisualFSM?style=flat',
-            'tags': [
-                'Android',
-                'IOS',
-                'JVM'
+            "name": "VisualFSM - FSM-based MVI framework",
+            "url": "https://github.com/Kontur-Mobile/VisualFSM",
+            "description": "VisualFSM is a Kotlin Multiplatform library for implements an FSM-based (Finite-state machine) MVI pattern and a set of tools for visualization and analysis of FSM's diagram of states.",
+            "stars": "https://img.shields.io/github/stars/Kontur-Mobile/VisualFSM?style=flat",
+            "tags": [
+                "Android",
+                "IOS",
+                "JVM"
             ],
-            'categoryId': 6
+            "categoryId": 6
         },
         {
-            'name': 'Redux Kotlin - Redux framework',
-            'url': 'https://github.com/reduxkotlin/redux-kotlin',
-            'description': 'Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)',
-            'stars': 'https://img.shields.io/github/stars/reduxkotlin/redux-kotlin?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS',
-                'WASM'
+            "name": "Redux Kotlin - Redux framework",
+            "url": "https://github.com/reduxkotlin/redux-kotlin",
+            "description": "Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)",
+            "stars": "https://img.shields.io/github/stars/reduxkotlin/redux-kotlin?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS",
+                "WASM"
             ],
-            'categoryId': 6
+            "categoryId": 6
         },
         {
-            'name': 'CoRed - Opinionated Redux-like implementation',
-            'url': 'https://github.com/kittinunf/CoRed',
-            'description': "CoRed is Redux-like implementation that maintains the benefits of Redux's core idea without the boilerplate. No more action types, action creators, switch statements or complicated setup. It is Kotlin and it has coroutine supported right out-of-the-box.",
-            'stars': 'https://img.shields.io/github/stars/kittinunf/CoRed?style=flat',
-            'tags': [
-                'JVM'
+            "name": "CoRed - Opinionated Redux-like implementation",
+            "url": "https://github.com/kittinunf/CoRed",
+            "description": "CoRed is Redux-like implementation that maintains the benefits of Redux's core idea without the boilerplate. No more action types, action creators, switch statements or complicated setup. It is Kotlin and it has coroutine supported right out-of-the-box.",
+            "stars": "https://img.shields.io/github/stars/kittinunf/CoRed?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 6
+            "categoryId": 6
         },
         {
-            'name': 'Flywheel - Redux for Kotlin Multiplatform',
-            'url': 'https://github.com/abhimuktheeswarar/Flywheel',
-            'description': 'A simple and predictable state management library inspired by Redux for Kotlin Multiplatform using the concepts of actors.',
-            'stars': 'https://img.shields.io/github/stars/abhimuktheeswarar/Flywheel?style=flat',
-            'tags': [
-                'JVM'
+            "name": "Flywheel - Redux for Kotlin Multiplatform",
+            "url": "https://github.com/abhimuktheeswarar/Flywheel",
+            "description": "A simple and predictable state management library inspired by Redux for Kotlin Multiplatform using the concepts of actors.",
+            "stars": "https://img.shields.io/github/stars/abhimuktheeswarar/Flywheel?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 6
+            "categoryId": 6
         },
         {
-            'name': 'FlowRedux - Statemachine library with nice DSL',
-            'url': 'https://github.com/freeletics/FlowRedux',
-            'description': 'Building async. running Kotlin Multiplatform state machine made easy with a DSL and coroutines.',
-            'stars': 'https://img.shields.io/github/stars/freeletics/FlowRedux?style=flat',
-            'tags': [
-                'JVM'
+            "name": "FlowRedux - Statemachine library with nice DSL",
+            "url": "https://github.com/freeletics/FlowRedux",
+            "description": "Building async. running Kotlin Multiplatform state machine made easy with a DSL and coroutines.",
+            "stars": "https://img.shields.io/github/stars/freeletics/FlowRedux?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 6
+            "categoryId": 6
         },
         {
-            'name': 'Mobius.kt - Mobius Framework',
-            'url': 'https://github.com/DrewCarlson/mobius.kt',
-            'description': 'Kotlin Multiplatform Mobius implementation.',
-            'stars': 'https://img.shields.io/github/stars/DrewCarlson/mobius.kt?style=flat',
-            'tags': [
-                'JVM'
+            "name": "Mobius.kt - Mobius Framework",
+            "url": "https://github.com/DrewCarlson/mobius.kt",
+            "description": "Kotlin Multiplatform Mobius implementation.",
+            "stars": "https://img.shields.io/github/stars/DrewCarlson/mobius.kt?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 6
+            "categoryId": 6
         },
         {
-            'name': 'MOKO Crash Reporting - reporting to Crashlytics',
-            'url': 'https://github.com/icerockdev/moko-crash-reporting',
-            'description': 'Fatal and Non-Fatal reporting to Crashlytics for Kotlin Multiplatform Mobile',
-            'stars': 'https://img.shields.io/github/stars/icerockdev/moko-crash-reporting?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "MOKO Crash Reporting - reporting to Crashlytics",
+            "url": "https://github.com/icerockdev/moko-crash-reporting",
+            "description": "Fatal and Non-Fatal reporting to Crashlytics for Kotlin Multiplatform Mobile",
+            "stars": "https://img.shields.io/github/stars/icerockdev/moko-crash-reporting?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 7
+            "categoryId": 7
         },
         {
-            'name': 'CrashKiOS - Crash reporting for Kotlin/Native iOS applications',
-            'url': 'https://github.com/touchlab/CrashKiOS',
-            'description': 'Thin library that provides symbolicated crash reports for Kotlin code on iOS.',
-            'stars': 'https://img.shields.io/github/stars/touchlab/CrashKiOS?style=flat',
-            'tags': [
-                'IOS'
+            "name": "CrashKiOS - Crash reporting for Kotlin/Native iOS applications",
+            "url": "https://github.com/touchlab/CrashKiOS",
+            "description": "Thin library that provides symbolicated crash reports for Kotlin code on iOS.",
+            "stars": "https://img.shields.io/github/stars/touchlab/CrashKiOS?style=flat",
+            "tags": [
+                "IOS"
             ],
-            'categoryId': 7
+            "categoryId": 7
         },
         {
-            'name': 'NSExceptionKt - Better crash reports on Apple platforms',
-            'url': 'https://github.com/rickclephas/NSExceptionKt',
-            'description': 'Unhandled Kotlin exceptions logging for Apple platforms.',
-            'stars': 'https://img.shields.io/github/stars/rickclephas/NSExceptionKt?style=flat',
-            'tags': [
-                'IOS'
+            "name": "NSExceptionKt - Better crash reports on Apple platforms",
+            "url": "https://github.com/rickclephas/NSExceptionKt",
+            "description": "Unhandled Kotlin exceptions logging for Apple platforms.",
+            "stars": "https://img.shields.io/github/stars/rickclephas/NSExceptionKt?style=flat",
+            "tags": [
+                "IOS"
             ],
-            'categoryId': 7
+            "categoryId": 7
         },
         {
-            'name': 'abc-kmm-analytics-tools - Analytics Tools',
-            'url': 'https://github.com/line/abc-kmm-analytics-tools',
-            'description': 'Automatically tracking and sending events of screen view and capture',
-            'stars': 'https://img.shields.io/github/stars/line/abc-kmm-analytics-tools?style=flat',
-            'tags': [
-                'Android',
-                'IOS'
+            "name": "abc-kmm-analytics-tools - Analytics Tools",
+            "url": "https://github.com/line/abc-kmm-analytics-tools",
+            "description": "Automatically tracking and sending events of screen view and capture",
+            "stars": "https://img.shields.io/github/stars/line/abc-kmm-analytics-tools?style=flat",
+            "tags": [
+                "Android",
+                "IOS"
             ],
-            'categoryId': 7
+            "categoryId": 7
         },
         {
-            'name': 'Analytics - analytics facade',
-            'url': 'https://github.com/ppav/analytics',
-            'description': 'Kotlin Multiplatform library as a simple facade or abstraction for analytics.',
-            'stars': 'https://img.shields.io/github/stars/ppav/analytics?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "Analytics - analytics facade",
+            "url": "https://github.com/ppav/analytics",
+            "description": "Kotlin Multiplatform library as a simple facade or abstraction for analytics.",
+            "stars": "https://img.shields.io/github/stars/ppav/analytics?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 7
+            "categoryId": 7
         },
         {
-            'name': 'trckr - KSP processor',
-            'url': 'https://github.com/dzmpr/trckr',
-            'description': 'KSP processer that simplifies the collection of analytics',
-            'stars': 'https://img.shields.io/github/stars/dzmpr/trckr?style=flat',
-            'tags': [
-                'JVM'
+            "name": "trckr - KSP processor",
+            "url": "https://github.com/dzmpr/trckr",
+            "description": "KSP processer that simplifies the collection of analytics",
+            "stars": "https://img.shields.io/github/stars/dzmpr/trckr?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 7
+            "categoryId": 7
         },
         {
-            'name': 'Kotest - test framework',
-            'url': 'https://github.com/kotest/kotest',
-            'description': 'Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing',
-            'stars': 'https://img.shields.io/github/stars/kotest/kotest?style=flat',
-            'tags': [
-                'JVM',
-                'Native'
+            "name": "Kotest - test framework",
+            "url": "https://github.com/kotest/kotest",
+            "description": "Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing",
+            "stars": "https://img.shields.io/github/stars/kotest/kotest?style=flat",
+            "tags": [
+                "JVM",
+                "Native"
             ],
-            'categoryId': 8
+            "categoryId": 8
         },
         {
-            'name': 'Turbine - test library',
-            'url': 'https://github.com/cashapp/turbine',
-            'description': 'A small testing library for kotlinx.coroutines Flow',
-            'stars': 'https://img.shields.io/github/stars/cashapp/turbine?style=flat',
-            'tags': [
-                'JVM'
+            "name": "Turbine - test library",
+            "url": "https://github.com/cashapp/turbine",
+            "description": "A small testing library for kotlinx.coroutines Flow",
+            "stars": "https://img.shields.io/github/stars/cashapp/turbine?style=flat",
+            "tags": [
+                "JVM"
             ],
-            'categoryId': 8
+            "categoryId": 8
         },
         {
-            'name': 'MockingBird - test framework',
-            'url': 'https://github.com/careem/mockingbird',
-            'description': 'A Kotlin multiplatform library that provides an easier way to mock and write unit tests for a multiplatform project',
-            'stars': 'https://img.shields.io/github/stars/careem/mockingbird?style=flat',
-            'tags': [
-                'JVM',
-                'Native'
+            "name": "MockingBird - test framework",
+            "url": "https://github.com/careem/mockingbird",
+            "description": "A Kotlin multiplatform library that provides an easier way to mock and write unit tests for a multiplatform project",
+            "stars": "https://img.shields.io/github/stars/careem/mockingbird?style=flat",
+            "tags": [
+                "JVM",
+                "Native"
             ],
-            'categoryId': 8
+            "categoryId": 8
         },
         {
-            'name': 'Mockative - Mocking with KSP',
-            'url': 'https://github.com/mockative/mockative',
-            'description': 'Mocking for Kotlin/Native and Kotlin Multiplatform using the Kotlin Symbol Processing API (KSP)',
-            'stars': 'https://img.shields.io/github/stars/mockative/mockative?style=flat',
-            'tags': [
-                'JVM',
-                'Native'
+            "name": "Mockative - Mocking with KSP",
+            "url": "https://github.com/mockative/mockative",
+            "description": "Mocking for Kotlin/Native and Kotlin Multiplatform using the Kotlin Symbol Processing API (KSP)",
+            "stars": "https://img.shields.io/github/stars/mockative/mockative?style=flat",
+            "tags": [
+                "JVM",
+                "Native"
             ],
-            'categoryId': 8
+            "categoryId": 8
         },
         {
-            'name': 'MocKMP - Mocking with KSP',
-            'url': 'https://github.com/kosi-libs/MocKMP',
-            'description': 'A Kotlin/Multiplatform Kotlin Symbol Processor that generates Mocks & Fakes.',
-            'stars': 'https://img.shields.io/github/stars/kosi-libs/MocKMP?style=flat',
-            'tags': [
-                'JVM',
-                'Native'
+            "name": "MocKMP - Mocking with KSP",
+            "url": "https://github.com/kosi-libs/MocKMP",
+            "description": "A Kotlin/Multiplatform Kotlin Symbol Processor that generates Mocks & Fakes.",
+            "stars": "https://img.shields.io/github/stars/kosi-libs/MocKMP?style=flat",
+            "tags": [
+                "JVM",
+                "Native"
             ],
-            'categoryId': 8
+            "categoryId": 8
         },
         {
-            'name': 'Mokkery - Mocking library',
-            'url': 'https://github.com/lupuuss/Mokkery',
-            'description': 'Mokkery is a mocking library for Kotlin Multiplatform, easy to use, boilerplate-free and compiler plugin driven. Highly inspired by MockK.',
-            'stars': 'https://img.shields.io/github/stars/lupuuss/Mokkery?style=flat',
-            'tags': [
-                'JVM',
-                'Native'
+            "name": "Mokkery - Mocking library",
+            "url": "https://github.com/lupuuss/Mokkery",
+            "description": "Mokkery is a mocking library for Kotlin Multiplatform, easy to use, boilerplate-free and compiler plugin driven. Highly inspired by MockK.",
+            "stars": "https://img.shields.io/github/stars/lupuuss/Mokkery?style=flat",
+            "tags": [
+                "JVM",
+                "Native"
             ],
-            'categoryId': 8
+            "categoryId": 8
         },
         {
-            'name': 'KLIP - Snapshot ((c|k)lip) manager for tests.',
-            'url': 'https://github.com/mpetuska/klip',
-            'description': 'Kotlin Multiplatform snapshot ((c|k)lip) manager for tests. Automatically generates and asserts against a persistent Any::toString() representation of the object until you explicitly trigger an update. Powered by kotlin compiler plugin to inject relevant keys and paths.',
-            'stars': 'https://img.shields.io/github/stars/mpetuska/klip?style=flat',
-            'tags': [
-                'JVM',
-                'Native'
+            "name": "KLIP - Snapshot ((c|k)lip) manager for tests.",
+            "url": "https://github.com/mpetuska/klip",
+            "description": "Kotlin Multiplatform snapshot ((c|k)lip) manager for tests. Automatically generates and asserts against a persistent Any::toString() representation of the object until you explicitly trigger an update. Powered by kotlin compiler plugin to inject relevant keys and paths.",
+            "stars": "https://img.shields.io/github/stars/mpetuska/klip?style=flat",
+            "tags": [
+                "JVM",
+                "Native"
             ],
-            'categoryId': 8
+            "categoryId": 8
         },
         {
-            'name': 'Assertk - Fluent assertions library',
-            'url': 'https://github.com/willowtreeapps/assertk',
-            'description': 'Fluent assertions library for Kotlin with full Multiplatform support.',
-            'stars': 'https://img.shields.io/github/stars/willowtreeapps/assertk?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "Assertk - Fluent assertions library",
+            "url": "https://github.com/willowtreeapps/assertk",
+            "description": "Fluent assertions library for Kotlin with full Multiplatform support.",
+            "stars": "https://img.shields.io/github/stars/willowtreeapps/assertk?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 8
+            "categoryId": 8
         },
         {
-            'name': 'Cryptography-Kotlin - Type-safe Multiplatform cryptography library',
-            'url': 'https://github.com/whyoleg/cryptography-kotlin',
-            'description': 'Type-safe Multiplatform cryptography library for Kotlin. The library wraps well-known future-proof solutions like OpenSSL 3.x, WebCrypto or JCA with a type-safe multiplatform API.',
-            'stars': 'https://img.shields.io/github/stars/whyoleg/cryptography-kotlin?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "Cryptography-Kotlin - Type-safe Multiplatform cryptography library",
+            "url": "https://github.com/whyoleg/cryptography-kotlin",
+            "description": "Type-safe Multiplatform cryptography library for Kotlin. The library wraps well-known future-proof solutions like OpenSSL 3.x, WebCrypto or JCA with a type-safe multiplatform API.",
+            "stars": "https://img.shields.io/github/stars/whyoleg/cryptography-kotlin?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 9
+            "categoryId": 9
         },
         {
-            'name': 'Libsodium - Libsodium bindings for Kotlin Multiplatform',
-            'url': 'https://github.com/ionspin/kotlin-multiplatform-libsodium',
-            'description': 'Libsodium bindings project provides a Kotlin multiplatform wrapper library for libsodium using libsodium c sources and libsodium.js.',
-            'stars': 'https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-libsodium?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "Libsodium - Libsodium bindings for Kotlin Multiplatform",
+            "url": "https://github.com/ionspin/kotlin-multiplatform-libsodium",
+            "description": "Libsodium bindings project provides a Kotlin multiplatform wrapper library for libsodium using libsodium c sources and libsodium.js.",
+            "stars": "https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-libsodium?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 9
+            "categoryId": 9
         },
         {
-            'name': 'Krypto - Pure Kotlin cryptography library',
-            'url': 'https://github.com/korlibs/krypto',
-            'description': 'Krypto is a pure Kotlin cryptography library providing secure random, hash (MD5/SHA1/SHA256), and AES functionalities.',
-            'stars': 'https://img.shields.io/github/stars/korlibs/krypto?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "Krypto - Pure Kotlin cryptography library",
+            "url": "https://github.com/korlibs/krypto",
+            "description": "Krypto is a pure Kotlin cryptography library providing secure random, hash (MD5/SHA1/SHA256), and AES functionalities.",
+            "stars": "https://img.shields.io/github/stars/korlibs/krypto?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 9
+            "categoryId": 9
         },
         {
-            'name': 'cryptohash - A set of cryptographic hashing functions',
-            'url': 'https://github.com/appmattus/crypto/tree/main/cryptohash',
-            'description': 'Cryptohash provides a set of cryptographic (and not so cryptographic) hashing functions including xxHash, Blake, HMAC, Keccak, MD5, SHA, etc.',
-            'stars': 'https://img.shields.io/github/stars/appmattus/crypto?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "cryptohash - A set of cryptographic hashing functions",
+            "url": "https://github.com/appmattus/crypto/tree/main/cryptohash",
+            "description": "Cryptohash provides a set of cryptographic (and not so cryptographic) hashing functions including xxHash, Blake, HMAC, Keccak, MD5, SHA, etc.",
+            "stars": "https://img.shields.io/github/stars/appmattus/crypto?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 9
+            "categoryId": 9
         },
         {
-            'name': 'murmurhash - Library for hashing using MurmurHash',
-            'url': 'https://github.com/goncalossilva/kotlinx-murmurhash',
-            'description': 'MurmurHash is a Kotlin Multiplatform (KMP) library for MurmurHash, a non-cryptographic hash function focused on simplicity and performance.',
-            'stars': 'https://img.shields.io/github/stars/goncalossilva/kotlinx-murmurhash?style=flat',
-            'tags': [
-                'JVM',
-                'Native'
+            "name": "murmurhash - Library for hashing using MurmurHash",
+            "url": "https://github.com/goncalossilva/kotlinx-murmurhash",
+            "description": "MurmurHash is a Kotlin Multiplatform (KMP) library for MurmurHash, a non-cryptographic hash function focused on simplicity and performance.",
+            "stars": "https://img.shields.io/github/stars/goncalossilva/kotlinx-murmurhash?style=flat",
+            "tags": [
+                "JVM",
+                "Native"
             ],
-            'categoryId': 9
+            "categoryId": 9
         },
         {
-            'name': 'Diglol Crypto - Diglol Crypto for Kotlin Multiplatform',
-            'url': 'https://github.com/diglol/crypto',
-            'description': 'Diglol Crypto provides lots of crypto algorithms for Kotlin Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/diglol/crypto?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "Diglol Crypto - Diglol Crypto for Kotlin Multiplatform",
+            "url": "https://github.com/diglol/crypto",
+            "description": "Diglol Crypto provides lots of crypto algorithms for Kotlin Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/diglol/crypto?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 9
+            "categoryId": 9
         },
         {
-            'name': 'KotlinCrypto/MACs - Message Authentication Code algorithms',
-            'url': 'https://github.com/KotlinCrypto/MACs',
-            'description': 'Message Authentication Code algorithms for Kotlin Multiplatform including HmacMD5, HmacSHA1, HmacSHA224, HmacSHA256, HmacSHA384, HmacSHA512, HmacSHA512/224, HmacSHA512/256.',
-            'stars': 'https://img.shields.io/github/stars/KotlinCrypto/MACs?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "KotlinCrypto/MACs - Message Authentication Code algorithms",
+            "url": "https://github.com/KotlinCrypto/MACs",
+            "description": "Message Authentication Code algorithms for Kotlin Multiplatform including HmacMD5, HmacSHA1, HmacSHA224, HmacSHA256, HmacSHA384, HmacSHA512, HmacSHA512/224, HmacSHA512/256.",
+            "stars": "https://img.shields.io/github/stars/KotlinCrypto/MACs?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 9
+            "categoryId": 9
         },
         {
-            'name': 'KotlinCrypto/hash - Cryptographic hash functions',
-            'url': 'https://github.com/KotlinCrypto/hash',
-            'description': 'Cryptographic hash functions for Kotlin Multiplatform including MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/224, SHA-512/256.',
-            'stars': 'https://img.shields.io/github/stars/KotlinCrypto/hash?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "KotlinCrypto/hash - Cryptographic hash functions",
+            "url": "https://github.com/KotlinCrypto/hash",
+            "description": "Cryptographic hash functions for Kotlin Multiplatform including MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/224, SHA-512/256.",
+            "stars": "https://img.shields.io/github/stars/KotlinCrypto/hash?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 9
+            "categoryId": 9
         },
         {
-            'name': 'KotlinCrypto/secure-random - Cryptographically secure random data',
-            'url': 'https://github.com/KotlinCrypto/secure-random',
-            'description': 'Kotlin Multiplatform library for obtaining cryptographically secure random data from the system. It provides a simple API surface area and utilizes system functions.',
-            'stars': 'https://img.shields.io/github/stars/KotlinCrypto/secure-random?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "KotlinCrypto/secure-random - Cryptographically secure random data",
+            "url": "https://github.com/KotlinCrypto/secure-random",
+            "description": "Kotlin Multiplatform library for obtaining cryptographically secure random data from the system. It provides a simple API surface area and utilizes system functions.",
+            "stars": "https://img.shields.io/github/stars/KotlinCrypto/secure-random?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 9
+            "categoryId": 9
         },
         {
-            'name': 'Okio - access, store, and process your data',
-            'url': 'https://github.com/square/okio',
-            'description': 'Okio is a library that complements java.io and java.nio to make it much easier to access, store, and process your data.',
-            'stars': 'https://img.shields.io/github/stars/square/okio?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "Okio - access, store, and process your data",
+            "url": "https://github.com/square/okio",
+            "description": "Okio is a library that complements java.io and java.nio to make it much easier to access, store, and process your data.",
+            "stars": "https://img.shields.io/github/stars/square/okio?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 10
+            "categoryId": 10
         },
         {
-            'name': 'KorIO - access, store, and process your data',
-            'url': 'https://github.com/korlibs/korio',
-            'description': 'KorIO is a library for Charsets, Encodings, Checksums, Compression, I/O, Streams, Virtual File System, Networking, Http, WebSockets, Serialization…',
-            'stars': 'https://img.shields.io/github/stars/korlibs/korio?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "KorIO - access, store, and process your data",
+            "url": "https://github.com/korlibs/korio",
+            "description": "KorIO is a library for Charsets, Encodings, Checksums, Compression, I/O, Streams, Virtual File System, Networking, Http, WebSockets, Serialization\u2026",
+            "stars": "https://img.shields.io/github/stars/korlibs/korio?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 10
+            "categoryId": 10
         },
         {
-            'name': 'Suparnatural FS - file system i/o',
-            'url': 'https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs',
-            'description': 'Kotlin multiplatform file system i/o for android, iOS, Java and NodeJS',
-            'stars': 'https://img.shields.io/github/stars/suparngp/kotlin-multiplatform-projects?style=flat',
-            'tags': [
-                'JVM',
-                'Native'
+            "name": "Suparnatural FS - file system i/o",
+            "url": "https://github.com/suparngp/kotlin-multiplatform-projects/tree/master/fs",
+            "description": "Kotlin multiplatform file system i/o for android, iOS, Java and NodeJS",
+            "stars": "https://img.shields.io/github/stars/suparngp/kotlin-multiplatform-projects?style=flat",
+            "tags": [
+                "JVM",
+                "Native"
             ],
-            'categoryId': 10
+            "categoryId": 10
         },
         {
-            'name': "Arrow - Functional companion to Kotlin's Standard Library",
-            'url': 'https://github.com/arrow-kt/arrow',
-            'description': 'Arrow aims to provide a lingua franca of interfaces and abstractions across Kotlin libraries. It includes popular data types and functional operators to empower users to write pure FP apps and libraries.',
-            'stars': 'https://img.shields.io/github/stars/arrow-kt/arrow?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "Arrow - Functional companion to Kotlin's Standard Library",
+            "url": "https://github.com/arrow-kt/arrow",
+            "description": "Arrow aims to provide a lingua franca of interfaces and abstractions across Kotlin libraries. It includes popular data types and functional operators to empower users to write pure FP apps and libraries.",
+            "stars": "https://img.shields.io/github/stars/arrow-kt/arrow?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 11
+            "categoryId": 11
         },
         {
-            'name': 'Result - success/failure result',
-            'url': 'https://github.com/kittinunf/Result',
-            'description': 'This is a tiny framework for modelling success/failure of operations in Kotlin.',
-            'stars': 'https://img.shields.io/github/stars/kittinunf/Result?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "Result - success/failure result",
+            "url": "https://github.com/kittinunf/Result",
+            "description": "This is a tiny framework for modelling success/failure of operations in Kotlin.",
+            "stars": "https://img.shields.io/github/stars/kittinunf/Result?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 11
+            "categoryId": 11
         },
         {
-            'name': 'ApiResult - Declarative Error Handling',
-            'url': 'https://github.com/respawn-app/ApiResult',
-            'description': 'ApiResult is a Kotlin Multiplatform declarative error handling framework that is performant, easy to use and feature-rich.',
-            'stars': 'https://img.shields.io/github/stars/respawn-app/ApiResult?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "ApiResult - Declarative Error Handling",
+            "url": "https://github.com/respawn-app/ApiResult",
+            "description": "ApiResult is a Kotlin Multiplatform declarative error handling framework that is performant, easy to use and feature-rich.",
+            "stars": "https://img.shields.io/github/stars/respawn-app/ApiResult?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 11
+            "categoryId": 11
         },
         {
-            'name': 'kotlinx.serialization - JSON serialization',
-            'url': 'https://github.com/Kotlin/kotlinx.serialization',
-            'description': 'Kotlin serialization consists of a compiler plugin, runtime library, and support libraries with various serialization formats.',
-            'stars': 'https://img.shields.io/github/stars/Kotlin/kotlinx.serialization?style=flat',
-            'tags': [
-                'JVM',
-                'Native',
-                'JS'
+            "name": "kotlinx.serialization - JSON serialization",
+            "url": "https://github.com/Kotlin/kotlinx.serialization",
+            "description": "Kotlin serialization consists of a compiler plugin, runtime library, and support libraries with various serialization formats.",
+            "stars": "https://img.shields.io/github/stars/Kotlin/kotlinx.serialization?style=flat",
+            "tags": [
+                "JVM",
+                "Native",
+                "JS"
             ],
-            'categoryId': 12
+            "categoryId": 12
         },
         {
-            'name': 'Ksoup - HTML & XML Parser (Jsoup Alternative)',
-            'url': 'https://github.com/fleeksoft/ksoup',
-            'description': 'Ksoup is a Kotlin Multiplatform port of the renowned Java library, jsoup. It is designed to scrape, parse, manipulate, and clean HTML and XML documents with ease and efficiency.',
-            'stars': 'https://img.shields.io/github/stars/fleeksoft/ksoup?style=flat',
-            'tags': [
-                'JVM',
-                'Native'
+            "name": "Ksoup - HTML & XML Parser (Jsoup Alternative)",
+            "url": "https://github.com/fleeksoft/ksoup",
+            "description": "Ksoup is a Kotlin Multiplatform port of the renowned Java library, jsoup. It is designed to scrape, parse, manipulate, and clean HTML and XML documents with ease and efficiency.",
+            "stars": "https://img.shields.io/github/stars/fleeksoft/ksoup?style=flat",
+            "tags": [
+                "JVM",
+                "Native"
             ],
-            'categoryId': 12
+            "categoryId": 12
         },
         {
-            'name': 'Appyx',
-            'url': 'https://github.com/bumble-tech/appyx',
-            'description': 'Navigation, transition animations, gestures, UI components.',
-            'stars': 'https://img.shields.io/github/stars/bumble-tech/appyx?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Appyx",
+            "url": "https://github.com/bumble-tech/appyx",
+            "description": "Navigation, transition animations, gestures, UI components.",
+            "stars": "https://img.shields.io/github/stars/bumble-tech/appyx?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'Voyager',
-            'url': 'https://github.com/adrielcafe/voyager',
-            'description': 'Compose Multiplatform Navigation.',
-            'stars': 'https://img.shields.io/github/stars/adrielcafe/voyager?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Voyager",
+            "url": "https://github.com/adrielcafe/voyager",
+            "description": "Compose Multiplatform Navigation.",
+            "stars": "https://img.shields.io/github/stars/adrielcafe/voyager?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'Calf',
-            'url': 'https://github.com/MohamedRejeb/Calf',
-            'description': 'Compose Adaptive Look & Feel.',
-            'stars': 'https://img.shields.io/github/stars/MohamedRejeb/Calf?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Calf",
+            "url": "https://github.com/MohamedRejeb/Calf",
+            "description": "Compose Adaptive Look & Feel.",
+            "stars": "https://img.shields.io/github/stars/MohamedRejeb/Calf?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'Compose DND',
-            'url': 'https://github.com/MohamedRejeb/compose-dnd',
-            'description': 'Compose Drag And Drop.',
-            'stars': 'https://img.shields.io/github/stars/MohamedRejeb/compose-dnd?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Compose DND",
+            "url": "https://github.com/MohamedRejeb/compose-dnd",
+            "description": "Compose Drag And Drop.",
+            "stars": "https://img.shields.io/github/stars/MohamedRejeb/compose-dnd?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'Libres-Compose',
-            'url': 'https://github.com/Skeptick/libres',
-            'description': 'Resources generation in Kotlin Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/Skeptick/libres?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Libres-Compose",
+            "url": "https://github.com/Skeptick/libres",
+            "description": "Resources generation in Kotlin Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/Skeptick/libres?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'InsetsX',
-            'url': 'https://github.com/mori-atsushi/insetsx',
-            'description': 'WindowInsets utility for Compose Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/mori-atsushi/insetsx?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "InsetsX",
+            "url": "https://github.com/mori-atsushi/insetsx",
+            "description": "WindowInsets utility for Compose Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/mori-atsushi/insetsx?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'Window Size Class',
-            'url': 'https://github.com/chrisbanes/material3-windowsizeclass-multiplatform',
-            'description': 'Material 3 Window Size Class.',
-            'stars': 'https://img.shields.io/github/stars/chrisbanes/material3-windowsizeclass-multiplatform?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Window Size Class",
+            "url": "https://github.com/chrisbanes/material3-windowsizeclass-multiplatform",
+            "description": "Material 3 Window Size Class.",
+            "stars": "https://img.shields.io/github/stars/chrisbanes/material3-windowsizeclass-multiplatform?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'Compose-Imageloader',
-            'url': 'https://github.com/qdsfdhvh/compose-imageloader',
-            'description': 'Compose Image library for Kotlin Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/qdsfdhvh/compose-imageloader?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Compose-Imageloader",
+            "url": "https://github.com/qdsfdhvh/compose-imageloader",
+            "description": "Compose Image library for Kotlin Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/qdsfdhvh/compose-imageloader?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'Kamel',
-            'url': 'https://github.com/Kamel-Media/Kamel',
-            'description': 'Asynchronous media loading library for Compose Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/Kamel-Media/Kamel?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Kamel",
+            "url": "https://github.com/Kamel-Media/Kamel",
+            "description": "Asynchronous media loading library for Compose Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/Kamel-Media/Kamel?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'Compose Icons',
-            'url': 'https://github.com/DevSrSouza/compose-icons',
-            'description': 'Open Source icon packs for Compose Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/DevSrSouza/compose-icons?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Compose Icons",
+            "url": "https://github.com/DevSrSouza/compose-icons",
+            "description": "Open Source icon packs for Compose Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/DevSrSouza/compose-icons?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'Compose Rich Editor',
-            'url': 'https://github.com/MohamedRejeb/Compose-Rich-Editor',
-            'description': 'A Rich text editor library for both Jetpack Compose and Compose Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/MohamedRejeb/Compose-Rich-Editor?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Compose Rich Editor",
+            "url": "https://github.com/MohamedRejeb/Compose-Rich-Editor",
+            "description": "A Rich text editor library for both Jetpack Compose and Compose Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/MohamedRejeb/Compose-Rich-Editor?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'Material Theme Preferences',
-            'url': 'https://github.com/softartdev/MaterialThemePrefs',
-            'description': 'Kotlin Multiplatform library for easy switching Dark/Light Material themes on Compose.',
-            'stars': 'https://img.shields.io/github/stars/softartdev/MaterialThemePrefs?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Material Theme Preferences",
+            "url": "https://github.com/softartdev/MaterialThemePrefs",
+            "description": "Kotlin Multiplatform library for easy switching Dark/Light Material themes on Compose.",
+            "stars": "https://img.shields.io/github/stars/softartdev/MaterialThemePrefs?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'Drag Select Compose',
-            'url': 'https://github.com/jordond/drag-select-compose',
-            'description': "Compose Multiplatform library that allows you to easily implement a 'Google Photos'-style multi-selection.",
-            'stars': 'https://img.shields.io/github/stars/jordond/drag-select-compose?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "Drag Select Compose",
+            "url": "https://github.com/jordond/drag-select-compose",
+            "description": "Compose Multiplatform library that allows you to easily implement a 'Google Photos'-style multi-selection.",
+            "stars": "https://img.shields.io/github/stars/jordond/drag-select-compose?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'MaterialKolor',
-            'url': 'https://github.com/jordond/materialkolor',
-            'description': 'Compose multiplatform library for generating dynamic Material3 color schemes from a seed color.',
-            'stars': 'https://img.shields.io/github/stars/jordond/materialkolor?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "MaterialKolor",
+            "url": "https://github.com/jordond/materialkolor",
+            "description": "Compose multiplatform library for generating dynamic Material3 color schemes from a seed color.",
+            "stars": "https://img.shields.io/github/stars/jordond/materialkolor?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'AAY-chart',
-            'url': 'https://github.com/TheChance101/AAY-chart',
-            'description': 'The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native.',
-            'stars': 'https://img.shields.io/github/stars/TheChance101/AAY-chart?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "AAY-chart",
+            "url": "https://github.com/TheChance101/AAY-chart",
+            "description": "The library contains several chart composables for usage in Kotlin Multiplatform projects and Android Native.",
+            "stars": "https://img.shields.io/github/stars/TheChance101/AAY-chart?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'kmPalette',
-            'url': 'https://github.com/jordond/kmpalette',
-            'description': 'A Compose Multiplatform library for generating color palettes from images, including the dominant color.',
-            'stars': 'https://img.shields.io/github/stars/jordond/kmpalette?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS',
-                'Web'
+            "name": "kmPalette",
+            "url": "https://github.com/jordond/kmpalette",
+            "description": "A Compose Multiplatform library for generating color palettes from images, including the dominant color.",
+            "stars": "https://img.shields.io/github/stars/jordond/kmpalette?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS",
+                "Web"
             ],
-            'categoryId': 13
+            "categoryId": 13
         },
         {
-            'name': 'MOKO Graphics',
-            'url': 'https://github.com/icerockdev/moko-graphics',
-            'description': 'This is a Kotlin Multiplatform library that provides graphics primitives to common code.',
-            'stars': 'https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat',
-            'tags': [
-                'KMM',
-                'JVM',
-                'IOS'
+            "name": "MOKO Graphics",
+            "url": "https://github.com/icerockdev/moko-graphics",
+            "description": "This is a Kotlin Multiplatform library that provides graphics primitives to common code.",
+            "stars": "https://img.shields.io/github/stars/icerockdev/moko-graphics?style=flat",
+            "tags": [
+                "KMM",
+                "JVM",
+                "IOS"
             ],
-            'categoryId': 14
+            "categoryId": 14
         },
         {
-            'name': 'Korim',
-            'url': 'https://github.com/korlibs/korim',
-            'description': 'Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin',
-            'stars': 'https://img.shields.io/github/stars/korlibs/korim?style=flat',
-            'tags': [
-                'KMM',
-                'JVM',
-                'IOS'
+            "name": "Korim",
+            "url": "https://github.com/korlibs/korim",
+            "description": "Kotlin cORoutines IMaging, Bitmap and Vector graphics for Multiplatform Kotlin",
+            "stars": "https://img.shields.io/github/stars/korlibs/korim?style=flat",
+            "tags": [
+                "KMM",
+                "JVM",
+                "IOS"
             ],
-            'categoryId': 14
+            "categoryId": 14
         },
         {
-            'name': 'Firebase Kotlin SDK',
-            'url': 'https://github.com/GitLiveApp/firebase-kotlin-sdk',
-            'description': "The Firebase Kotlin SDK is a Kotlin-first SDK for Firebase. It's API is similar to the Firebase Android SDK Kotlin Extensions but also supports multiplatform projects, enabling you to use Firebase directly from your common source targeting iOS, Android or JS.",
-            'stars': 'https://img.shields.io/github/stars/GitLiveApp/firebase-kotlin-sdk?style=flat',
-            'tags': [
-                'KMM',
-                'Firebase',
-                'SDK'
+            "name": "Firebase Kotlin SDK",
+            "url": "https://github.com/GitLiveApp/firebase-kotlin-sdk",
+            "description": "The Firebase Kotlin SDK is a Kotlin-first SDK for Firebase. It's API is similar to the Firebase Android SDK Kotlin Extensions but also supports multiplatform projects, enabling you to use Firebase directly from your common source targeting iOS, Android or JS.",
+            "stars": "https://img.shields.io/github/stars/GitLiveApp/firebase-kotlin-sdk?style=flat",
+            "tags": [
+                "KMM",
+                "Firebase",
+                "SDK"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'supabase-kt',
-            'url': 'https://github.com/supabase-community/supabase-kt',
-            'description': 'Supabase is an open source Firebase alternative. Database, Auth, Storage, Edge Functions, Realtime, AI & Vectors',
-            'stars': 'https://img.shields.io/github/stars/supabase-community/supabase-kt?style=flat',
-            'tags': [
-                'KMP',
-                'Supabase',
-                'Client'
+            "name": "supabase-kt",
+            "url": "https://github.com/supabase-community/supabase-kt",
+            "description": "Supabase is an open source Firebase alternative. Database, Auth, Storage, Edge Functions, Realtime, AI & Vectors",
+            "stars": "https://img.shields.io/github/stars/supabase-community/supabase-kt?style=flat",
+            "tags": [
+                "KMP",
+                "Supabase",
+                "Client"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'openai-kotlin',
-            'url': 'https://github.com/Aallam/openai-kotlin',
-            'description': "Kotlin client for OpenAI's API with multiplatform and coroutines capabilities.",
-            'stars': 'https://img.shields.io/github/stars/Aallam/openai-kotlin?style=flat',
-            'tags': [
-                'KMP',
-                'OpenAI',
-                'SDK'
+            "name": "openai-kotlin",
+            "url": "https://github.com/Aallam/openai-kotlin",
+            "description": "Kotlin client for OpenAI's API with multiplatform and coroutines capabilities.",
+            "stars": "https://img.shields.io/github/stars/Aallam/openai-kotlin?style=flat",
+            "tags": [
+                "KMP",
+                "OpenAI",
+                "SDK"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'Sentry SDK',
-            'url': 'https://github.com/getsentry/sentry-kotlin-multiplatform',
-            'description': 'This project is an experimental SDK for Kotlin Multiplatform. This SDK is a wrapper around different platforms such as JVM, Android, iOS, macOS, watchOS, tvOS that can be used on Kotlin Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/getsentry/sentry-kotlin-multiplatform?style=flat',
-            'tags': [
-                'KMP',
-                'Sentry',
-                'SDK'
+            "name": "Sentry SDK",
+            "url": "https://github.com/getsentry/sentry-kotlin-multiplatform",
+            "description": "This project is an experimental SDK for Kotlin Multiplatform. This SDK is a wrapper around different platforms such as JVM, Android, iOS, macOS, watchOS, tvOS that can be used on Kotlin Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/getsentry/sentry-kotlin-multiplatform?style=flat",
+            "tags": [
+                "KMP",
+                "Sentry",
+                "SDK"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'VK SDK Kotlin',
-            'url': 'https://github.com/vksdk/vk-sdk-kotlin',
-            'description': 'Create a chat-bot for VK.com in a few lines of code, use the API and forget about the limitations',
-            'stars': 'https://img.shields.io/github/stars/vksdk/vk-sdk-kotlin?style=flat',
-            'tags': [
-                'VK',
-                'SDK',
-                'Kotlin'
+            "name": "VK SDK Kotlin",
+            "url": "https://github.com/vksdk/vk-sdk-kotlin",
+            "description": "Create a chat-bot for VK.com in a few lines of code, use the API and forget about the limitations",
+            "stars": "https://img.shields.io/github/stars/vksdk/vk-sdk-kotlin?style=flat",
+            "tags": [
+                "VK",
+                "SDK",
+                "Kotlin"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'bitcoin-kmp',
-            'url': 'https://github.com/ACINQ/bitcoin-kmp',
-            'description': 'This is a simple Kotlin Multiplatform library which implements most of the bitcoin protocol',
-            'stars': 'https://img.shields.io/github/stars/ACINQ/bitcoin-kmp?style=flat',
-            'tags': [
-                'KMP',
-                'Bitcoin',
-                'Library'
+            "name": "bitcoin-kmp",
+            "url": "https://github.com/ACINQ/bitcoin-kmp",
+            "description": "This is a simple Kotlin Multiplatform library which implements most of the bitcoin protocol",
+            "stars": "https://img.shields.io/github/stars/ACINQ/bitcoin-kmp?style=flat",
+            "tags": [
+                "KMP",
+                "Bitcoin",
+                "Library"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'MOKO Tensorflow',
-            'url': 'https://github.com/icerockdev/moko-tensorflow',
-            'description': 'This is a Kotlin MultiPlatform library that provides access to TensorFlow-Lite functionality from common source set.',
-            'stars': 'https://img.shields.io/github/stars/icerockdev/moko-tensorflow?style=flat',
-            'tags': [
-                'KMM',
-                'TensorFlow',
-                'Mobile'
+            "name": "MOKO Tensorflow",
+            "url": "https://github.com/icerockdev/moko-tensorflow",
+            "description": "This is a Kotlin MultiPlatform library that provides access to TensorFlow-Lite functionality from common source set.",
+            "stars": "https://img.shields.io/github/stars/icerockdev/moko-tensorflow?style=flat",
+            "tags": [
+                "KMM",
+                "TensorFlow",
+                "Mobile"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'qBittorrent',
-            'url': 'https://github.com/DrewCarlson/qBittorrent-Kotlin',
-            'description': 'Multiplatform Kotlin wrapper for the qBittorrent Web API using Ktor.',
-            'stars': 'https://img.shields.io/github/stars/DrewCarlson/qBittorrent-Kotlin?style=flat',
-            'tags': [
-                'KMP',
-                'qBittorrent',
-                'Wrapper'
+            "name": "qBittorrent",
+            "url": "https://github.com/DrewCarlson/qBittorrent-Kotlin",
+            "description": "Multiplatform Kotlin wrapper for the qBittorrent Web API using Ktor.",
+            "stars": "https://img.shields.io/github/stars/DrewCarlson/qBittorrent-Kotlin?style=flat",
+            "tags": [
+                "KMP",
+                "qBittorrent",
+                "Wrapper"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'Cognito-idp',
-            'url': 'https://github.com/Liftric/cognito-idp',
-            'description': 'Lightweight AWS Cognito Identity Provider client for Kotlin Multiplatform and Typescript projects.',
-            'stars': 'https://img.shields.io/github/stars/Liftric/cognito-idp?style=flat',
-            'tags': [
-                'KMP',
-                'AWS',
-                'Cognito'
+            "name": "Cognito-idp",
+            "url": "https://github.com/Liftric/cognito-idp",
+            "description": "Lightweight AWS Cognito Identity Provider client for Kotlin Multiplatform and Typescript projects.",
+            "stars": "https://img.shields.io/github/stars/Liftric/cognito-idp?style=flat",
+            "tags": [
+                "KMP",
+                "AWS",
+                "Cognito"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'TMDb API',
-            'url': 'https://github.com/MoviebaseApp/tmdb-api',
-            'description': 'This library gives access to TMDb API version 3 and 4 for mobile, desktop, and web applications. It supports Swift, Kotlin, and JavaScript by setting up as a Kotlin Multiplatform project.',
-            'stars': 'https://img.shields.io/github/stars/MoviebaseApp/tmdb-api?style=flat',
-            'tags': [
-                'KMM',
-                'TMDb',
-                'API'
+            "name": "TMDb API",
+            "url": "https://github.com/MoviebaseApp/tmdb-api",
+            "description": "This library gives access to TMDb API version 3 and 4 for mobile, desktop, and web applications. It supports Swift, Kotlin, and JavaScript by setting up as a Kotlin Multiplatform project.",
+            "stars": "https://img.shields.io/github/stars/MoviebaseApp/tmdb-api?style=flat",
+            "tags": [
+                "KMM",
+                "TMDb",
+                "API"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'Growth Book SDK',
-            'url': 'https://github.com/growthbook/growthbook-kotlin',
-            'description': "GrowthBook is an open-source platform for feature flagging and a/b testing built for data teams, engineers, and product managers. It's great whether you're looking to just analyze experiment results or looking to make it easier to deploy code.",
-            'stars': 'https://img.shields.io/github/stars/growthbook/growthbook-kotlin?style=flat',
-            'tags': [
-                'Kotlin',
-                'GrowthBook',
-                'SDK'
+            "name": "Growth Book SDK",
+            "url": "https://github.com/growthbook/growthbook-kotlin",
+            "description": "GrowthBook is an open-source platform for feature flagging and a/b testing built for data teams, engineers, and product managers. It's great whether you're looking to just analyze experiment results or looking to make it easier to deploy code.",
+            "stars": "https://img.shields.io/github/stars/growthbook/growthbook-kotlin?style=flat",
+            "tags": [
+                "Kotlin",
+                "GrowthBook",
+                "SDK"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'ConfigCat',
-            'url': 'https://github.com/configcat/kotlin-sdk',
-            'description': 'Kotlin Multiplatform SDK for ConfigCat, a feature flag, feature toggle, and configuration management service. That lets you launch new features and change your software configuration remotely without actually (re)deploying code. ConfigCat even helps you do controlled roll-outs like canary releases and blue-green deployments.',
-            'stars': 'https://img.shields.io/github/stars/configcat/kotlin-sdk?style=flat',
-            'tags': [
-                'KMP',
-                'ConfigCat',
-                'SDK'
+            "name": "ConfigCat",
+            "url": "https://github.com/configcat/kotlin-sdk",
+            "description": "Kotlin Multiplatform SDK for ConfigCat, a feature flag, feature toggle, and configuration management service. That lets you launch new features and change your software configuration remotely without actually (re)deploying code. ConfigCat even helps you do controlled roll-outs like canary releases and blue-green deployments.",
+            "stars": "https://img.shields.io/github/stars/configcat/kotlin-sdk?style=flat",
+            "tags": [
+                "KMP",
+                "ConfigCat",
+                "SDK"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'Solana-kmp',
-            'url': 'https://github.com/metaplex-foundation/solana-kmp',
-            'description': 'Solana-KMP leverages the power of Kotlin Multiplatform to enable developers to work with the Solana blockchain across various platforms including Android, iOS, and the JVM.',
-            'stars': 'https://img.shields.io/github/stars/metaplex-foundation/solana-kmp?style=flat',
-            'tags': [
-                'KMP',
-                'Solana',
-                'SDK'
+            "name": "Solana-kmp",
+            "url": "https://github.com/metaplex-foundation/solana-kmp",
+            "description": "Solana-KMP leverages the power of Kotlin Multiplatform to enable developers to work with the Solana blockchain across various platforms including Android, iOS, and the JVM.",
+            "stars": "https://img.shields.io/github/stars/metaplex-foundation/solana-kmp?style=flat",
+            "tags": [
+                "KMP",
+                "Solana",
+                "SDK"
             ],
-            'categoryId': 15
+            "categoryId": 15
         },
         {
-            'name': 'KBigNum',
-            'url': 'https://github.com/korlibs/kbignum',
-            'description': 'Library for Big Numbers',
-            'stars': 'https://img.shields.io/github/stars/korlibs/kbignum?style=flat',
-            'tags': [
-                'KMM'
+            "name": "KBigNum",
+            "url": "https://github.com/korlibs/kbignum",
+            "description": "Library for Big Numbers",
+            "stars": "https://img.shields.io/github/stars/korlibs/kbignum?style=flat",
+            "tags": [
+                "KMM"
             ],
-            'categoryId': 16
+            "categoryId": 16
         },
         {
-            'name': 'BigNum',
-            'url': 'https://github.com/ionspin/kotlin-multiplatform-bignum',
-            'description': 'Kotlin Multiplatform BigNum library is a pure kotlin implementation of arbitrary precision arithmetic operations. It follows the same approach as Kotlin does on JVM to keep the interface familiar.',
-            'stars': 'https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-bignum?style=flat',
-            'tags': [
-                'KMM'
+            "name": "BigNum",
+            "url": "https://github.com/ionspin/kotlin-multiplatform-bignum",
+            "description": "Kotlin Multiplatform BigNum library is a pure kotlin implementation of arbitrary precision arithmetic operations. It follows the same approach as Kotlin does on JVM to keep the interface familiar.",
+            "stars": "https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-bignum?style=flat",
+            "tags": [
+                "KMM"
             ],
-            'categoryId': 16
+            "categoryId": 16
         },
         {
-            'name': 'MOKO Resources',
-            'url': 'https://github.com/icerockdev/moko-resources',
-            'description': 'This is a Kotlin Multiplatform library that provides access to the resources on iOS & Android with the support of the default system localization.',
-            'stars': 'https://img.shields.io/github/stars/icerockdev/moko-resources?style=flat',
-            'tags': [
-                'Android',
-                'KMM',
-                'IOS'
+            "name": "MOKO Resources",
+            "url": "https://github.com/icerockdev/moko-resources",
+            "description": "This is a Kotlin Multiplatform library that provides access to the resources on iOS & Android with the support of the default system localization.",
+            "stars": "https://img.shields.io/github/stars/icerockdev/moko-resources?style=flat",
+            "tags": [
+                "Android",
+                "KMM",
+                "IOS"
             ],
-            'categoryId': 17
+            "categoryId": 17
         },
         {
-            'name': 'Kotlinx-Resources',
-            'url': 'https://github.com/goncalossilva/kotlinx-resources',
-            'description': "Kotlin Multiplatform (KMP) plugin and library that add support for reading resources in tests. The plugin and a library work in tandem to provide a unified API across platforms for reading resources from each source set's resources folder.",
-            'stars': 'https://img.shields.io/github/stars/goncalossilva/kotlinx-resources?style=flat',
-            'tags': [
-                'KMP'
+            "name": "Kotlinx-Resources",
+            "url": "https://github.com/goncalossilva/kotlinx-resources",
+            "description": "Kotlin Multiplatform (KMP) plugin and library that add support for reading resources in tests. The plugin and a library work in tandem to provide a unified API across platforms for reading resources from each source set's resources folder.",
+            "stars": "https://img.shields.io/github/stars/goncalossilva/kotlinx-resources?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 17
+            "categoryId": 17
         },
         {
-            'name': 'UUID',
-            'url': 'https://github.com/benasher44/uuid',
-            'description': 'Kotlin Multiplatform UUID generator',
-            'stars': 'https://img.shields.io/github/stars/benasher44/uuid?style=flat',
-            'tags': [
-                'KMP'
+            "name": "UUID",
+            "url": "https://github.com/benasher44/uuid",
+            "description": "Kotlin Multiplatform UUID generator",
+            "stars": "https://img.shields.io/github/stars/benasher44/uuid?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'Uri KMP',
-            'url': 'https://github.com/eygraber/uri-kmp',
-            'description': 'A library for working with URIs in Kotlin Multiplatform',
-            'stars': 'https://img.shields.io/github/stars/eygraber/uri-kmp?style=flat',
-            'tags': [
-                'KMP'
+            "name": "Uri KMP",
+            "url": "https://github.com/eygraber/uri-kmp",
+            "description": "A library for working with URIs in Kotlin Multiplatform",
+            "stars": "https://img.shields.io/github/stars/eygraber/uri-kmp?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'Diglol Encoding',
-            'url': 'https://github.com/diglol/encoding',
-            'description': 'Diglol Encoding provides Hex/Base16, Base32, Base64 encodings for Kotlin Multiplatform',
-            'stars': 'https://img.shields.io/github/stars/diglol/encoding?style=flat',
-            'tags': [
-                'KMP'
+            "name": "Diglol Encoding",
+            "url": "https://github.com/diglol/encoding",
+            "description": "Diglol Encoding provides Hex/Base16, Base32, Base64 encodings for Kotlin Multiplatform",
+            "stars": "https://img.shields.io/github/stars/diglol/encoding?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'Diglol Id',
-            'url': 'https://github.com/diglol/id',
-            'description': 'A global Id generator for Kotlin Multiplatform. It modifies the timestamp to 5 bytes based on Xid.',
-            'stars': 'https://img.shields.io/github/stars/diglol/id?style=flat',
-            'tags': [
-                'KMP'
+            "name": "Diglol Id",
+            "url": "https://github.com/diglol/id",
+            "description": "A global Id generator for Kotlin Multiplatform. It modifies the timestamp to 5 bytes based on Xid.",
+            "stars": "https://img.shields.io/github/stars/diglol/id?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'ByteBuffer',
-            'url': 'https://github.com/DitchOoM/buffer',
-            'description': "A kotlin multiplatform library that allows you to allocate and modify byte[] natively using an API similar to Java's ByteBuffer API.",
-            'stars': 'https://img.shields.io/github/stars/DitchOoM/buffer?style=flat',
-            'tags': [
-                'KMP'
+            "name": "ByteBuffer",
+            "url": "https://github.com/DitchOoM/buffer",
+            "description": "A kotlin multiplatform library that allows you to allocate and modify byte[] natively using an API similar to Java's ByteBuffer API.",
+            "stars": "https://img.shields.io/github/stars/DitchOoM/buffer?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'zipline',
-            'url': 'https://github.com/cashapp/zipline',
-            'description': "Zipline works by embedding the QuickJS JavaScript engine in your Kotlin/JVM or Kotlin/Native program. It's a small and fast JavaScript engine that's well-suited to embedding in applications.",
-            'stars': 'https://img.shields.io/github/stars/cashapp/zipline?style=flat',
-            'tags': [
-                'KMP'
+            "name": "zipline",
+            "url": "https://github.com/cashapp/zipline",
+            "description": "Zipline works by embedding the QuickJS JavaScript engine in your Kotlin/JVM or Kotlin/Native program. It's a small and fast JavaScript engine that's well-suited to embedding in applications.",
+            "stars": "https://img.shields.io/github/stars/cashapp/zipline?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'Kase64',
-            'url': 'https://github.com/saschpe/kase64',
-            'description': 'Base64 encoder/decoder for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.',
-            'stars': 'https://img.shields.io/github/stars/saschpe/kase64?style=flat',
-            'tags': [
-                'KMP'
+            "name": "Kase64",
+            "url": "https://github.com/saschpe/kase64",
+            "description": "Base64 encoder/decoder for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.",
+            "stars": "https://img.shields.io/github/stars/saschpe/kase64?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'Colormath',
-            'url': 'https://github.com/ajalt/colormath',
-            'description': 'Colormath is a Kotlin Multiplatform library for color manipulation and conversion.',
-            'stars': 'https://img.shields.io/github/stars/ajalt/colormath?style=flat',
-            'tags': [
-                'KMP'
+            "name": "Colormath",
+            "url": "https://github.com/ajalt/colormath",
+            "description": "Colormath is a Kotlin Multiplatform library for color manipulation and conversion.",
+            "stars": "https://img.shields.io/github/stars/ajalt/colormath?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'GEOK',
-            'url': 'https://github.com/piruin/geok',
-            'description': 'Small geometry library for Java and Kotlin. Contains useful basic utilities that require on most application.',
-            'stars': 'https://img.shields.io/github/stars/piruin/geok?style=flat',
-            'tags': [
-                'KMP'
+            "name": "GEOK",
+            "url": "https://github.com/piruin/geok",
+            "description": "Small geometry library for Java and Kotlin. Contains useful basic utilities that require on most application.",
+            "stars": "https://img.shields.io/github/stars/piruin/geok?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'fluid-currency',
-            'url': 'https://github.com/fluidsonic/fluid-currency',
-            'description': 'Kotlin multiplatform currency library.',
-            'stars': 'https://img.shields.io/github/stars/fluidsonic/fluid-currency?style=flat',
-            'tags': [
-                'KMP'
+            "name": "fluid-currency",
+            "url": "https://github.com/fluidsonic/fluid-currency",
+            "description": "Kotlin multiplatform currency library.",
+            "stars": "https://img.shields.io/github/stars/fluidsonic/fluid-currency?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'fluid-country',
-            'url': 'https://github.com/fluidsonic/fluid-country',
-            'description': 'Kotlin multiplatform country library.',
-            'stars': 'https://img.shields.io/github/stars/fluidsonic/fluid-country?style=flat',
-            'tags': [
-                'KMP'
+            "name": "fluid-country",
+            "url": "https://github.com/fluidsonic/fluid-country",
+            "description": "Kotlin multiplatform country library.",
+            "stars": "https://img.shields.io/github/stars/fluidsonic/fluid-country?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'Kmem',
-            'url': 'https://github.com/korlibs/kmem',
-            'description': 'Kmem is bit, array and fast memory utilities library for multiplatform Kotlin',
-            'stars': 'https://img.shields.io/github/stars/korlibs/kmem?style=flat',
-            'tags': [
-                'KMP'
+            "name": "Kmem",
+            "url": "https://github.com/korlibs/kmem",
+            "description": "Kmem is bit, array and fast memory utilities library for multiplatform Kotlin",
+            "stars": "https://img.shields.io/github/stars/korlibs/kmem?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'KaseChange',
-            'url': 'https://github.com/pearxteam/kasechange',
-            'description': 'Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case',
-            'stars': 'https://img.shields.io/github/stars/pearxteam/kasechange?style=flat',
-            'tags': [
-                'KMP'
+            "name": "KaseChange",
+            "url": "https://github.com/pearxteam/kasechange",
+            "description": "Multiplatform Kotlin library to convert strings between various case formats including Camel Case, Snake Case, Pascal Case and Kebab Case",
+            "stars": "https://img.shields.io/github/stars/pearxteam/kasechange?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'FuzzyWuzzy-Kotlin',
-            'url': 'https://github.com/willowtreeapps/fuzzywuzzy-kotlin',
-            'description': 'Useful for selecting the closest matching string from a collection of strings. Various algorithms are available.',
-            'stars': 'https://img.shields.io/github/stars/willowtreeapps/fuzzywuzzy-kotlin?style=flat',
-            'tags': [
-                'KMP'
+            "name": "FuzzyWuzzy-Kotlin",
+            "url": "https://github.com/willowtreeapps/fuzzywuzzy-kotlin",
+            "description": "Useful for selecting the closest matching string from a collection of strings. Various algorithms are available.",
+            "stars": "https://img.shields.io/github/stars/willowtreeapps/fuzzywuzzy-kotlin?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'kotlin-semver',
-            'url': 'https://github.com/z4kn4fein/kotlin-semver',
-            'description': 'Semantic Versioning library for Kotlin Multiplatform.',
-            'stars': 'https://img.shields.io/github/stars/z4kn4fein/kotlin-semver?style=flat',
-            'tags': [
-                'KMP'
+            "name": "kotlin-semver",
+            "url": "https://github.com/z4kn4fein/kotlin-semver",
+            "description": "Semantic Versioning library for Kotlin Multiplatform.",
+            "stars": "https://img.shields.io/github/stars/z4kn4fein/kotlin-semver?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'Kontrol',
-            'url': 'https://github.com/chopyourbrain/kontrol',
-            'description': 'Kotlin Multiplatform library for creating a debugging menu.',
-            'stars': 'https://img.shields.io/github/stars/chopyourbrain/kontrol?style=flat',
-            'tags': [
-                'KMP'
+            "name": "Kontrol",
+            "url": "https://github.com/chopyourbrain/kontrol",
+            "description": "Kotlin Multiplatform library for creating a debugging menu.",
+            "stars": "https://img.shields.io/github/stars/chopyourbrain/kontrol?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'Korau',
-            'url': 'https://github.com/korlibs/korau',
-            'description': 'Pure Kotlin WAV, MP3 and OGG vorbis decoders',
-            'stars': 'https://img.shields.io/github/stars/korlibs/korau?style=flat',
-            'tags': [
-                'KMP'
+            "name": "Korau",
+            "url": "https://github.com/korlibs/korau",
+            "description": "Pure Kotlin WAV, MP3 and OGG vorbis decoders",
+            "stars": "https://img.shields.io/github/stars/korlibs/korau?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'Kim',
-            'url': 'https://github.com/Ashampoo/kim',
-            'description': 'Kotlin Multiplatform library for reading and writing image metadata',
-            'stars': 'https://img.shields.io/github/stars/Ashampoo/kim?style=flat',
-            'tags': [
-                'KMP'
+            "name": "Kim",
+            "url": "https://github.com/Ashampoo/kim",
+            "description": "Kotlin Multiplatform library for reading and writing image metadata",
+            "stars": "https://img.shields.io/github/stars/Ashampoo/kim?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'XMP Core for Kotlin Multiplatform',
-            'url': 'https://github.com/Ashampoo/xmpcore',
-            'description': 'Kotlin Multiplatform library for reading and writing XMP (Extensible Metadata Platform) files',
-            'stars': 'https://img.shields.io/github/stars/Ashampoo/xmpcore?style=flat',
-            'tags': [
-                'KMP'
+            "name": "XMP Core for Kotlin Multiplatform",
+            "url": "https://github.com/Ashampoo/xmpcore",
+            "description": "Kotlin Multiplatform library for reading and writing XMP (Extensible Metadata Platform) files",
+            "stars": "https://img.shields.io/github/stars/Ashampoo/xmpcore?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'Highlights',
-            'url': 'https://github.com/SnipMeDev/Highlights',
-            'description': 'Kotlin Multiplatform library for analyzing and coloring syntax of code string',
-            'stars': 'https://img.shields.io/github/stars/SnipMeDev/Highlights?style=flat',
-            'tags': [
-                'KMP'
+            "name": "Highlights",
+            "url": "https://github.com/SnipMeDev/Highlights",
+            "description": "Kotlin Multiplatform library for analyzing and coloring syntax of code string",
+            "stars": "https://img.shields.io/github/stars/SnipMeDev/Highlights?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'BlahBlah',
-            'url': 'https://github.com/getspherelabs/blahblah',
-            'description': 'Blah-Blah generates fake data for robust testing and development',
-            'stars': 'https://img.shields.io/github/stars/getspherelabs/blahblah?style=flat',
-            'tags': [
-                'KMP'
+            "name": "BlahBlah",
+            "url": "https://github.com/getspherelabs/blahblah",
+            "description": "Blah-Blah generates fake data for robust testing and development",
+            "stars": "https://img.shields.io/github/stars/getspherelabs/blahblah?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'KMPUtils',
-            'url': 'https://github.com/respawn-app/KMMUtils',
-            'description': 'KMPUtils is a collection of everything missing from the Kotlin Multiplatform Standard Library.',
-            'stars': 'https://img.shields.io/github/stars/respawn-app/KMMUtils?style=flat',
-            'tags': [
-                'KMP'
+            "name": "KMPUtils",
+            "url": "https://github.com/respawn-app/KMMUtils",
+            "description": "KMPUtils is a collection of everything missing from the Kotlin Multiplatform Standard Library.",
+            "stars": "https://img.shields.io/github/stars/respawn-app/KMMUtils?style=flat",
+            "tags": [
+                "KMP"
             ],
-            'categoryId': 18
+            "categoryId": 18
         },
         {
-            'name': 'RSSParser',
-            'url': 'https://github.com/prof18/RSS-Parser',
-            'description': 'RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.',
-            'stars': 'https://img.shields.io/github/stars/prof18/RSS-Parser?style=flat',
-            'tags': [
-                'Android',
-                'IOS',
-                'JVM'
+            "name": "RSSParser",
+            "url": "https://github.com/prof18/RSS-Parser",
+            "description": "RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.",
+            "stars": "https://img.shields.io/github/stars/prof18/RSS-Parser?style=flat",
+            "tags": [
+                "Android",
+                "IOS",
+                "JVM"
             ],
-            'categoryId': 18
+            "categoryId": 18
         }
     ]
 }
