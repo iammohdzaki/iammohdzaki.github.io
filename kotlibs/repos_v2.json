@@ -57,7 +57,7 @@
             "categoryId": 13
         },
         {
-            "name": "GUI",
+            "name": "Graphics",
             "categoryId": 14
         },
         {
@@ -2608,6 +2608,30 @@
                 "windows"
             ],
             "categoryId": 22
+        },
+        {
+            "name": "Doodle",
+            "url": "https://github.com/nacular/doodle",
+            "description": "A pure Kotlin UI framework for Web and Desktop.",
+            "tags": [
+                "jvm",
+                "wasm",
+            ],
+            "categoryId": 14
+        },
+        {
+            "name": "Kotbase",
+            "url": "https://github.com/jeffdgr8/kotbase",
+            "description": "Kotlin Multiplatform library for Couchbase Lite—a lightweight, embedded, NoSQL JSON document database—supporting SQL++, key/value, and full-text search queries; observability; binary attachments; and data sync.",
+            "tags": [
+                "android",
+                "ios",
+                "jvm",
+                "mac",
+                "linux",
+                "windows"
+            ],
+            "categoryId": 4
         }
     ],
     "tags": [
@@ -2616,6 +2640,7 @@
         "js",
         "jvm",
         "linux",
+        "wasm",
         "mac",
         "tvos",
         "watchos",
