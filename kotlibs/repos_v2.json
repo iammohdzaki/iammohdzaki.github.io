@@ -1,6 +1,10 @@
 {
     "categories": [
         {
+            "name": "All",
+            "categoryId": -1
+        },
+        {
             "name": "Network",
             "categoryId": 1
         },
