@@ -2615,7 +2615,7 @@
             "description": "A pure Kotlin UI framework for Web and Desktop.",
             "tags": [
                 "jvm",
-                "wasm",
+                "wasm"
             ],
             "categoryId": 14
         },
