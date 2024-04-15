@@ -2632,6 +2632,26 @@
                 "windows"
             ],
             "categoryId": 4
+        },
+        {
+            "name": "Rinku: Deep Link Handling",
+            "url": "https://github.com/theolm/rinku",
+            "description": "Rinku is a lightweight Kotlin Multiplatform library designed to simplify deep link handling across iOS and Android platforms. By abstracting platform-specific details, Rinku enables developers to manage deep links in a unified manner, enhancing code reuse and maintaining consistency across platforms.",
+            "tags": [
+                "android",
+                "ios"
+            ],
+            "categoryId": 17
+        },
+        {
+            "name": "KDeviceInfo",
+            "url": "https://github.com/swapnil-musale/KDeviceInfo",
+            "description": "KDeviceInfo is Kotlin Multiplatform Library - allows to access the device details of android and ios devices without writing expect actual boilerplate code.",
+            "tags": [
+                "android",
+                "ios"
+            ],
+            "categoryId": 10
         }
     ],
     "tags": [
