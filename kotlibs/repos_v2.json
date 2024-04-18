@@ -2652,6 +2652,16 @@
                 "ios"
             ],
             "categoryId": 10
+        },
+        {
+            "name": "KoVibes",
+            "url": "https://github.com/rubenquadros/KoVibes",
+            "description": "KoVibes is lightweight, simple to use Kotlin multiplatform library which is a Kotlin wrapper for the Spotify Web API. You don't have to worry about the complexity of authentication or maintaining the auth token. With KoVibes you can simply focus on building your next music app!",
+            "tags": [
+                "android",
+                "jvm"
+            ],
+            "categoryId": 7
         }
     ],
     "tags": [
